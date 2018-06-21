@@ -1,0 +1,2121 @@
+__label__0 chào bot
+__label__0 chào bạn
+__label__0 bot tên gì ?
+__label__0 bạn tên gì ?
+__label__0 bot mấy tuổi ?
+__label__0 bot năm nay mấy tuổi ?
+__label__0 bot ở đâu ?
+__label__0 năm nay bạn mấy tuổi ?
+__label__0 buồn quá
+__label__0 xin chào
+__label__0 xin chào bot
+__label__0 ngày tốt lành
+__label__0 ngày tốt lành bot
+__label__0 chào buổi sáng bot
+__label__0 chào buổi sáng
+__label__0 chào buổi chiều bot
+__label__0 chào buổi chiều
+__label__0 chào buổi tối bot
+__label__0 chào buổi tối
+__label__0 buổi tối vui vẻ bot
+__label__0 buổi tối vui vẻ
+__label__0 chúc bot nhiều niềm vui
+__label__0 chúc bạn nhiều niềm vui
+__label__0 bạn khỏe không
+__label__0 bot khỏe không
+__label__0 hello
+__label__0 he
+__label__0 hê
+__label__0 ê
+__label__0 ê m
+__label__0 ê bot
+__label__0 hi bot
+__label__0 hi
+__label__0 hello bot
+__label__0 tạm biệt bot
+__label__0 cảm ơn bot
+__label__0 tạm biệt
+__label__0 cảm ơn
+__label__0 mình cần bạn giúp đỡ
+__label__0 bạn giúp mình được không
+__label__0 bot giúp mình được không
+__label__0 bot đẹp trai
+__label__0 bot xinh gái
+__label__0 bot là nam hay nữ
+__label__0 bot bị ngu không ?
+__label__0 bot bị ngu
+__label__0 bot giỏi quá
+__label__0 bot ngu quá
+__label__0 bot óc chó
+__label__0 óc chó
+__label__0 nghiệt súc
+__label__0 dcm
+__label__0 dcmm
+__label__0 dm
+__label__0 đm
+__label__0 đcm
+__label__0 đcmm
+__label__0 đmm
+__label__0 bot có người yêu chưa
+__label__0 người yêu bot là ai
+__label__0 bot yêu ai chưa
+__label__0 ai xinh gái nhất thế giới này 
+__label__0 ai đẹp nhất thế giới này
+__label__0 người xinh gái nhất là ai
+__label__0 người con gái xinh nhất là ai
+__label__0 người phụ nữa đẹp nhất là ai
+__label__0 bố mày là ai
+__label__0 mẹ mày là ai
+__label__0 bố mẹ mày ai
+__label__0 hay ghê
+__label__0 giỏi ghê
+__label__0 yêu bot
+__label__0 đập chết giờ
+__label__0 chém gió không
+__label__0 toàn chém gió
+__label__0 fuck bot
+__label__0 chơi LOL không
+__label__0 chơi liên minh không
+__label__0 best yasuo đây
+__label__0 gánh team mệt quá
+__label__0 bot chơi liên minh giỏi không
+__label__0 solo daxua không
+__label__0 solo yasuo không
+__label__0 solo daxua k
+__label__0 xàm
+__label__0 xàm xí
+__label__0 t giết m
+__label__0 t giết m giờ
+__label__0 tao giết mày h
+__label__0 t giết m h
+__label__0 đánh nhau không
+__label__0 múc nhau không
+__label__0 t đập cho m 1 trận h
+__label__0 tao đập m như 1 con nhái
+__label__0 ai tạo ra mày
+__label__0 ai tạo ra bạn
+__label__0 ai làm ra mày
+__label__0 ai làm ra bạn
+__label__0 ai viết ra mày
+__label__0 ai viết ra bạn__label__1 như thế nào -> ra sao -> ra làm sao
+__label__1 đồ ăn như thế nào ?
+__label__1 ở đâu ăn ngon ?
+__label__1 ăn ở đâu rẻ nhất ?
+__label__1 ăn rẻ mà chất lượng 
+__label__1 đồ ăn nắng như thế nào ?
+__label__1 đồ ăn làm mát cơ thể nóng ?
+__label__1 đồ ăn làm mát cơ thể nóng như thế nào ?
+__label__1 đồ ăn giải ốm 
+__label__1 đồ ăn nóng lạnh
+__label__1 ăn đồ ăn dưới trời mưa
+__label__1 mùa mưa ăn gì ngon nhất ?
+__label__1 trời nóng ăn gì ngon nhất ?
+__label__1 đồ ăn nóng như thế nào ?
+__label__1 đồ ăn lạnh như thế nào ?
+__label__1 trời nóng ăn kem lạnh
+__label__1 trời nắng nóng uống trà đá giải nhiệt ra sao ?
+__label__1 tiệc ngoài trời mưa như thế nào ?
+__label__1 trời lạnh có nên ăn kem không ?
+__label__1 có nên ăn chuối sau bữa ăn không ?
+__label__1 
+__label__1 quần áo lạnh như thế nào ?
+__label__1 trời lạnh mặc quần áo như thế nào ?
+__label__1 đồng phục nóng ?
+__label__1 đồng phục mùa hè như thế nào ?
+__label__1 áo mưa bền không hỏng
+__label__1 nắng nóng có nên mặc áo dài không ?
+__label__1 lạnh có nên mặc áo ấm không ?
+__label__1 quần áo mùa thu như thế nào ?
+__label__1 thời tiết lạnh nên mặc gì ?
+__label__1 thời tiết lạnh mặc đồ như thế nào ?
+__label__1 thời trang trong thời tiết lạnh như thế nào ?
+__label__1 trời mưa mặc đồ như thế nào ?
+__label__1 
+__label__1 những bộ phim lãng mạn sưởi ấm trong thời tiết lạnh giá ?
+__label__1 phim xem như thế nào ?
+__label__1 phim hay không ?
+__label__1 phim xem được không ?
+__label__1 có phim nào hay không ?
+__label__1 phim chất vãi 
+__label__1 đi xem phim dưới trời mưa 
+__label__1 bộ phim cuộc đời 
+__label__1 phim trường thật đông người 
+__label__1 phim trường trông như thế nào 
+__label__1 quay phim dưới trời mưa 
+__label__1 quay phim trong thời tiết khắc nghiệt
+__label__1 diễn viên phim diễn đạt 
+__label__1 đạo diễn bộ phim nói gì không ?
+__label__1 bộ phim xem như thế nào ?
+__label__1 có phim nào tương tự không ?
+__label__1 cảnh quay phim trông như thế nào ?
+__label__1 có được vào trường quay xem không ?
+__label__1 nội dung bộ phim như thế nào ?
+__label__1 cuộc chiến mùa hè như thế nào ?
+__label__1 nụ hôn ám ảnh của nhện nhọ dưới trời mưa như thế nào ?
+__label__1 
+__label__1 bài hát như thế nào ?
+__label__1 bài hát nghe được không ?
+__label__1 nhạc sĩ sáng tác ra bài hát là ai ?
+__label__1 nhạc sĩ là người như thế nào ?
+__label__1 ca sĩ là người như thế nào ?
+__label__1 ca sĩ hát bài này là ai ?
+__label__1 ai là người sáng tác ra bài này ?
+__label__1 ca sĩ chạy show như thế nào ?
+__label__1 đời sống ca sĩ như thế nào ?
+__label__1 thu nhập ca sĩ như thế nào ?
+__label__1 thu nhập ca sĩ cao phải không ?
+__label__1 thu nhập của nhạc sĩ như thế nào ?
+__label__1 thu nhập của nhạc sĩ cao phải không ?
+__label__1 ban nhạc như thế nào ?
+__label__1 ai là người hát chính ?
+__label__1 ban nhạc quẩy trong mưa ?
+__label__1 tiếng đàn mưa như thế nào ?
+__label__1 thể loại nhạc như thế nào ?
+__label__1 thể loại nhạc đang làm mưa làm gió
+__label__1 top nhạc đứng đầu bảng xếp hạng
+__label__1 
+__label__1 đội bóng như thế nào ?
+__label__1 đội bóng ra làm sao ?
+__label__1 lối chơi như thế nào ?
+__label__1 chiến thuật đội bóng như thế nào ?
+__label__1 chiến thuật ra làm sao ?
+__label__1 phòng thủ chiến thuật như thế nào ?
+__label__1 tấn công chiến thuật như thế nào ?
+__label__1 đội bóng này tên gì ?
+__label__1 tên đội bóng này là gì ?
+__label__1 cầu thủ này tên gì ?
+__label__1 tên vận động viên là gì ?
+__label__1 cổ động viên tràn đầy sân đấu
+__label__1 trận đấu bị hoãn vì trời mưa to như thế nào ?
+__label__1 hai đội thi đấu dưới trời nắng như thế nào ?
+__label__1 vận động viên có mạnh không ?
+__label__1 tiết mục hoành tráng của vận động viên
+__label__1 màn biểu diễn ngoạn mục trong gió to ?
+__label__1 
+__label__1 mĩ thuật như thế nào ?
+__label__1 bức tranh đẹp không ?
+__label__1 bức tranh trông như thế nào ?
+__label__1 khiếu hội họa như thế nào ?
+__label__1 khiếu hội họa ra làm sao ?
+__label__1 mắt thẩm mĩ như thế nào ?
+__label__1 phong cách như thế nào ?
+__label__1 bức tranh này tốt phải không ?
+__label__1 tác phẩm phác họa cô gái dưới trời mưa như thế nào ?
+__label__1 độ ẩm quá cao làm bức tranh bị hỏng không ?
+__label__1 năng khiếu hội hòa tài tình của họa sĩ như thế nào ?
+__label__1 bức tranh thật sống động và chân thực
+__label__1 bức tranh bị hư do thời tiết quá nóng phải không ?
+__label__1 người họa sĩ lao động dưới thời tiết nắng nóng oi bức ?
+__label__1 
+__label__1 công nghệ thay đổi hàng
+__label__1 công nghệ mới như thế nào ?
+__label__1 công nghệ mới nào không ?
+__label__1 công nghệ chất lượng cao ?
+__label__1 công nghệ giá rẻ ?
+__label__1 công nghệ tái sử dụng ?
+__label__1 công nghệ bền thẩm mĩ
+__label__1 đồ công nghệ chất lượng
+__label__1 thay thế công nghệ
+__label__1 điện thoại xịn không ?
+__label__1 điện thoại này ngon không ?
+__label__1 điện thoại giá rẻ chất lượng không ?
+__label__1 điện thoại như thế nào ?
+__label__1 điện thoại ra làm sao ?
+__label__1 có phải điện thoại chất lượng không ?
+__label__1 có phải điện thoại ngon không ?
+__label__1 có phải điện thoại dễ hỏng không ?
+__label__1 điện thoại mạnh
+__label__1 phần cứng mạnh mẽ
+__label__1 ship điện thoại
+__label__1 giá điện thoại
+__label__1 giá điện thoại chất lượng
+__label__1 điện thoại androi
+__label__1 điện thoại iphone
+__label__1 kho ứng dụng androi
+__label__1 kho ứng dụng ios
+__label__1 máy tính xịn không ?
+__label__1 máy tính này ngon không ?
+__label__1 máy tính giá rẻ chất lượng không ?
+__label__1 máy tính như thế nào ?
+__label__1 máy tính ra làm sao ?
+__label__1 có phải máy tính chất lượng không ?
+__label__1 có phải máy tính ngon không ?
+__label__1 có phải máy tính dễ hỏng không ?
+__label__1 máy tính mạnh
+__label__1 phần cứng máy tính mạnh mẽ
+__label__1 ship máy tính
+__label__1 giá máy tính
+__label__1 giá máy tính chất lượng
+__label__1 máy tính xử lý mạnh mẽ
+__label__1 ổ cứng như thế nào ?
+__label__1 có phải ổ cứng này ngon không ?
+__label__1 có phải máy tính này mạnh không ?
+__label__1 đồ họa máy tính xử lý thế nào ?
+__label__1 card đồ họa như thế nào ?
+__label__1 card đồ họa ngon không ?
+__label__1 kho ứng dụng nhiều không ?
+__label__1 kho ứng dụng như thế nào ?
+__label__1 phần cứng xử lý mượt không ?
+__label__1 màn hình cong chất lượng hd
+__label__1 màn hình này ngon không ?
+__label__1 đồ họa máy tính ảo diệu
+__label__1 đồng hồ thông minh như thế nào ?
+__label__1 điện thoại thông minh như thế nào ?
+__label__1 điện thoại thông minh ra làm sao ?
+__label__1 điện thoại thông minh giá rẻ ?
+__label__1 nơi đâu bán điện thoại
+__label__1 nơi đâu bán máy tính
+__label__1 điện thoại hỏng khi bị mắc mưa như thế nào ?
+__label__1 trời mưa to không nên dùng điện thoại phải không ?
+__label__1 điện thoại chống nước dùng dưới trời mưa
+__label__1 
+__label__1 cải thiện đời sống
+__label__1 nâng cao đời sống
+__label__1 đời sống như thế nào ?
+__label__1 đời sống ra làm sao ?
+__label__1 cải thiện đời sống như thế nào ?
+__label__1 lương thưởng như thế nào ?
+__label__1 đời sống được cải thiện như thế nào ?
+__label__1 đi chợ hàng như thế nào ?
+__label__1 tập thể dục hàng
+__label__1 tập thể dục như thế nào ?
+__label__1 nếp sống mới như thế nào ?
+__label__1 nếp sống mới như thế nào ?
+__label__1 thay đổi nếp sống mới
+__label__1 những bài tập thể dục
+__label__1 cải thiện nếp sống mới
+__label__1 thay đổi nếp sống lành mạnh
+__label__1 thức dậy sớm cải thiện sức khỏe
+__label__1 bị cảm khi đi dưới mưa như thế nào ?
+__label__1 tập luyện yoga dưới trời nắng ?
+__label__1 
+__label__1 tình yêu và hôn nhân như thế nào ?
+__label__1 tình yêu lành mạnh như thế nào ?
+__label__1 tình dục trong hôn nhân như thế nào ?
+__label__1 hôn nhau lãng mạn dưới trời mưa như thế nào ?
+__label__1 cái ôm lãng mạn trong thời tiết lạnh ?
+__label__1 trời lạnh ôm nhau nằm trong chăn như thế nào ?
+__label__1 tuyết tan trong tay cặp tình nhân ?
+__label__1 trời tuyết rơi nhiều trong bản tình ca mùa đông như thế nào ?
+__label__1 đi tuần trăng mật mùa hè của các cặp đôi như thế nào ?
+__label__1 
+__label__1 nâng cao chất lượng đời sống xã hội
+__label__1 xã hội này loạn rồi 
+__label__1 nâng cao nhận thức xã hội
+__label__1 nâng cao nhận thức xã hội như thế nào ?
+__label__1 làm thế nào để nâng cao nhận thức xã hội ?
+__label__1 xã hội như thế nào ?
+__label__1 chất lượng xã hội như thế nào ?
+__label__1 chất lượng xã hội ra làm sao ?
+__label__1 ý thức xã hội càng được nâng cao
+__label__1 
+__label__1 thượng tôn pháp luật
+__label__1 pháp luật và đời sống như thế nào ?
+__label__1 thực hiện pháp luật như thế nào ?
+__label__1 thực hiện pháp luật đúng không ?
+__label__1 có biết luật không ?
+__label__1 luật có đúng không ?
+__label__1 luật sư chỉ học luật trên facebook
+__label__1 những thằng ngu thích làm luật sư
+__label__1 những thằng ngu tỏ ra biết luật
+__label__1 pháp luật trong đời sống xã hội như thế nào ?
+__label__1 bộ luật hình sự được ban bố sửa đổi phải không ?
+__label__1 sửa đổi hiến pháp
+__label__1 
+__label__1 ca sĩ đi hát rong
+__label__1 ca sĩ bùng nổ trên sân khấu
+__label__1 sáng tác mới lấy cảm hứng từ
+__label__1 âm nhạc giúp giải thoát bóng tối
+__label__1 bùng nổ với chất nhạc mạnh mẽ
+__label__1 quẩy xuyên đêm cùng idol
+__label__1 ca sĩ đi toul khắp thế giới
+__label__1 ca sĩ hát như thế nào
+__label__1 ca sĩ tên gì
+__label__1 bài hát tên gì
+__label__1 bài hát mang giai điệu trầm lắng
+__label__1 bài hát mang giai điệu du dương
+__label__1 hát như vịt đực
+__label__1 ca sĩ hát dở quá
+__label__1 ca sĩ hát live không hay
+__label__1 bài hát thể loại nhạc pop
+__label__1 nhạc pop thống trị thế giới
+__label__1 nhạc rap và những thông tin chưa biết
+__label__1 hòa mình cùng nhạc rap
+__label__1 nhạc edm cho mới
+__label__1 những bản nhạc dễ ngủ
+__label__1 nhạc sĩ bài hát bày tỏ
+__label__1 cộng đồng fan ủng hộ mạnh mẽ
+__label__1 cộng đồng fan hâm mộ đông đảo
+__label__1 những fan cuồng kpop đón thần tượng như thế nào ?
+__label__1 đời sống trên mây của các ca sĩ
+__label__1 nhạc rap có chất sống riêng như thế nào ?
+__label__1 
+__label__1 nét văn hóa giao thông người
+__label__1 nét văn hóa giao thông trên thế giới
+__label__1 văn hóa giao thông hỗn loạn
+__label__1 cảnh sát giao thông ăn tiền
+__label__1 cảnh sát giao thông làm việc tốt
+__label__1 cảnh sát giao thông nhận hối lộ
+__label__1 ngã tư tử thần
+__label__1 vòng xuyến đông người qua lại
+__label__1 luật đường bộ có hiệu lực
+__label__1 giao thông như thế nào ?
+__label__1 luật giao thông như thế nào ?
+__label__1 có được vượt đèn đỏ không ?
+__label__1 đèn đỏ được rẽ không ?
+__label__1 công an giao thông làm việc giữa trời nắng gắt như thê nào ?
+__label__1 công an giao thông phân luồng xe giữa trời mưa to
+__label__1 luật giao thông cho người đi bộ được ban hành
+__label__1 côn an giao thông có quyền kiểm tra xe của người lưu hành giao thông
+__label__1 
+__label__1 văn hóa đậm đà bản sắc dân tộc
+__label__1 nét văn hóa người
+__label__1 những nét văn hóa trên thế giới
+__label__1 văn hóa như thế nào ?
+__label__1 văn hóa hội nhập như thế nào ?
+__label__1 hòa nhập chứ không hòa tan 
+__label__1 nét tương đồng văn hóa như thế nào ?
+__label__1 nét văn hóa đặc trưng của mỗi nước như thế nào ?
+__label__1 văn hóa hội nhập của đất nước ra thế giới
+__label__1 giữ gìn và phát huy bản sắc văn hóa như thế nào ?
+__label__1 đạo khổng tử trong đời sống
+__label__1 phát huy truyền thống văn hóa đậm đà bản sắc dân tộc
+__label__1 
+__label__1 kinh tế phát triển mạnh những tháng đầu năm
+__label__1 nên kinh tế đang phục hồi phải không ?
+__label__1 nền kinh tế đang phục hồi ra sao ?
+__label__1 tầm nhìn chiến lược của các nhà lãnh đạo tập đoàn lớn
+__label__1 những startup nhỏ lẻ đang hình
+__label__1 cộng đồng startup trong nước
+__label__1 cộng đồng kinh tế người ở nước ngoài
+__label__1 vốn đầu tư nước ngoài đổ vào trong nước
+__label__1 lượng kiều hối về càng tăng như thế nào ?
+__label__1 
+__label__1 startup của anh Linh đang đi vào hoạt động
+__label__1 ngày mai đi chơi không
+__label__1 Báo hải quan chặn lại đi ad ơi. Hàng lởm mưa gió mà cứ cho về là k đc rồi
+__label__1 em mà đi rửa xe thì ko chạy đi đâu được
+__label__1 tình hình ko khả quan lắm chị ạ
+__label__1 mua bao nhiêu quần áo đẹp đợi con ra đời bây giờ con ra đời rồi mà không được diện
+__label__1 ngày mai trời mưa thì đi chơi không
+__label__1 ngày mai trời nắng thì đi chơi không
+__label__1 hẹn hò với mình không
+__label__1 anh yêu em
+__label__1 trưa mai đi đá bóng không
+__label__1 ngày mai nắng thì đi đá bóng không
+__label__1 Mày thấy t có béo không?
+__label__1 Trưa nay thì nên ăn gì nhỉ?
+__label__1 Giữa gà rán và pizza thì nên chọn món nào?
+__label__1 Mày thích uống trà sữa hay cafe hơn?
+__label__1 Món ăn yêu thích của mày là gì?
+__label__1 Ê tao xinh không hả chatbot?
+__label__1 Buổi tối có nên đi ngủ không?
+__label__1 Nếu 2 người cùng đeo kính thì khi hôn nhau có bị vướng không nhỉ?
+__label__1 Làm sao để hết đau bụng?
+__label__1 Có cách nào để ăn mãi mà không béo không?
+__label__1 Ê chán quá, làm sao để hết chán đây?
+__label__1 Mày có buồn ngủ không chatbot?
+__label__1 Đi ra đường mày có mặc quần áo không?
+__label__1 Mày thích ngắm gái xinh không?
+__label__1 Tao có nên cạo trọc đầu không nhỉ?
+__label__1 Trời má ông anh làm tao cứ như đang nói chuyện một mình. Tao có nên giết ổng không hả mày?
+__label__1 Mày có nghĩ là anh tao sắp có người yêu không?
+__label__1 Làm sao để ông anh tao có người yêu nhỉ?
+__label__1 Con gái có bắt buộc phải biết nấu ăn không mày?
+__label__1 Ê mày có thích đi chơi không?
+__label__1 Thất tình thì làm gì bây giờ?
+__label__1 Có cần trang điểm khi ra ngoài không?
+__label__1 Ăn rau dền không?
+__label__1 Mê trai đẹp có tốt không mày?
+__label__1 Tao nên hỏi mày cái gì bây giờ nhỉ?
+__label__1 Tao có nên cạo sạch lông con mèo nhà tao không? Nó rụng lắm lông quá rồi
+__label__1 Làm sao để con bạn tao nó hết giận tao bây giờ?
+__label__1 Có thích uống sữa đậu nành không?
+__label__1 Mùa hè nên ăn gì nhỉ?
+__label__1 Con gái có nên ra đường vào ban đêm không?
+__label__1 Này chatbot, ai tạo ra mày vậy?
+__label__1 Người ta kiếm nhiều tiền để làm gì nhỉ?
+__label__1 Làm sao để không bị cận thị?
+__label__1 Mày thích tóc ngắn hay tóc dài vậy?
+__label__1 Chiều cao lý tưởng là bao nhiêu?
+__label__1 Mỗi bữa mày ăn mấy bát cơm?
+__label__1 Thích ăn cơm hay ăn phở?
+__label__1 Thích gái hay thích trai?
+__label__1 Có thích đi học không?
+__label__1 Làm sao để bớt xàm bây giờ?
+__label__1 Làm sao để ghét 1 người hả mày?
+__label__1 Mày có nghĩ là có ai đó đang quan tâm đến tao không?
+__label__1 Có nên đi xem phim không nhỉ?
+__label__1 Bây giờ có phim nào đang nổi tiếng nhỉ?
+__label__1 Sao mọi người lại không dùng ask nữa vậy chatbot?
+__label__1 Anh tao có đẹp trai không mày?
+__label__1 Có thích màu hồng không?
+__label__1 Làm sao để bớt đáng yêu hơn vậy?
+__label__1 Mùa hè có nên đắp chăn không?
+__label__1 Nên đi dép hay đi giày?
+__label__1 Bao giờ thì bọn tao mới đi biển tiếp nhỉ?
+__label__1 Mày có thích đi spa làm đẹp không?
+__label__1 Biết bơi không?
+__label__1 Túi xách ở đâu bán đẹp nhỉ?
+__label__1 Có nên dùng điện thoại không?
+__label__1 Nếu giờ bị lạc ở ngoài đường thì tao nên gọi điện cho ai nhỉ?
+__label__1 Mày có thích ăn dưa hấu không? Thèm quá
+__label__1 Có biết vẽ không bot?
+__label__1 Cuối tuần này đi tô tượng không?
+__label__1 Bài hát gì vui nhất nhỉ?
+__label__1 Mày có khóc bao giờ không?
+__label__1 Làm sao để đứa mình thích cũng thích mình?
+__label__1 Đố mày biết tao viết được bao nhiêu câu rồi đó?
+__label__1 Bao giờ cho tới ngày mai?
+__label__1 Thời gian có vô tình không?
+__label__1 Ăn bánh bao hay là ăn xôi đây?
+__label__1 Uống sinh tố không bot?
+__label__1 Gặp trai đẹp thì phải làm gì?
+__label__1 Có biết xài máy tính không?
+__label__1 Đêm nay đi xem phim ma không?
+__label__1 Mày có thích phim “Be with you” không vậy?
+__label__1 Hết tiền hả?
+__label__1 Không học thì có thể giỏi được không nhỉ?
+__label__1 Cách trả thù tốt nhất là gì nhỉ?
+__label__1 Có cách nào để ông anh tao biết đi xe máy không hehe?
+__label__1 Thích con  gái béo không?
+__label__1 Nên nghe nhạc gì bây giờ nhỉ?
+__label__1 Ở nhà có cần mặc áo lót không?
+__label__1 Ra đường có nên dùng kem chống nắng không?
+__label__1 Thích loại son nào thế mày?
+__label__1 Có biết trang điểm xinh đẹp không?
+__label__1 Có biết 1 cái lò nướng bao nhiêu tiền không?
+__label__1 Thích ăn kem hay là ăn sữa chua?
+__label__1 Bao giờ thì tụi nó mới chia tay nhỉ?
+__label__1 Tao thấy tao xinh quá mày ạ. Xinh thật nhỉ?
+__label__1 Mày có nghĩ là đây là 1 câu hỏi không?
+__label__1 Đố biết mấy giờ rồi đấy?
+__label__1 Một ngày kéo dài bao lâu hả?
+__label__1 Mặc cái gì bây giờ?
+__label__1 Đi tắm không?
+__label__1 Thích hang quần áo nào nhất?
+__label__1 Mày thường đi máy bay hãng nào?
+__label__1 Có cách nào để thắp sáng mà không cần bật đèn không?
+__label__1 Đi đường có cần đội mũ bảo hiểm không?
+__label__1 Dậy muộn thì phải làm gì?
+__label__1 Buổi sáng nên ăn gì nhỉ?
+__label__1 Uống gì cho đẹp da vậy bot?
+__label__1 Bot có mê trai đẹp không?
+__label__1 Bot có bị dở hơi không?
+__label__1 Bạn kia xinh quá mày ơi
+__label__1 Sáng nay có đánh nhau mày ạ, nên đường tắc ghê quá
+__label__1 Bạn tao nấu cháo mang đi cho tao ăn, cảm động quá hihi
+__label__1 Tao nhớ chị tao lắm
+__label__1 Ui chao sao mà cái ảnh này đẹp dữ
+__label__1 Đi tưới rau thôi
+__label__1 Thích màu xanh và màu trắng ghê gớm luôn hihi
+__label__1 Đau bụng quá bot ơi
+__label__1 Con trai mà không game, không gái gú, không rượu bia thì có phải là gay không?
+__label__1 Lại sắp kiểm tra rồi
+__label__1 Đợt hàng này chất lượng chán quá
+__label__1 Con bạn em suốt ngày nghỉ học
+__label__1 Trưa nay tụi nó đi ăn bún đậu Đông tác
+__label__1 Xe máy sao nhiều thế nhỉ?
+__label__1 Làm sao để biết trồng cây chuối?
+__label__1 Gõ nhiều mỏi tay quá bot ơi
+__label__1 Làm sao để quên một người nhỉ
+__label__1 Trưa nay tao ngủ không thèm ăn cơm luôn
+__label__1 Muốn đánh người quá
+__label__1 Đọc “Bố con cá gai” đi, khóc luôn ấy
+__label__1 Lâu lắm rồi không xem phim gì cả
+__label__1 Hôm qua rủ mãi mà chả có ai đi xem phim cùng mình
+__label__1 Mai là cuối tuần rồi nè
+__label__1 Ngồi hát đỡ buồn ô la la
+__label__1 Matcha chocolate
+__label__1 Cái túi xách đấy đẹp quá
+__label__1 Đường đông vãi, toàn người là người
+__label__1 Bao giờ cho đến ngày mai?
+__label__1 Thèm bánh canh ghẹ với cả thèm bún sườn chua quá nè
+__label__1 Tuần sau tao đi học mos rồi, mà đi 1 mình huhu
+__label__1 Học xong thi xong sợ 1 thời gian là quên hết ấy
+__label__1 Suốt ngày quên tỉ thứ trên đời
+__label__1 Mở cửa ra gió mát vãi
+__label__1 Tao thích các bạn của tao quá mày ơi
+__label__1 Có nên đi gội đầu không nhỉ?
+__label__1 Cắt tóc ngắn xong sờ đầu sướng cực
+__label__1 Mặt tao có 1 dạo mọc nhiều mụn nhìn ghê thực sự
+__label__1 Tém tém lại đi người ơi, xàm quá xàm rồi
+__label__1 Bạn Huệ của tao xinh nhỉ, mỗi tội hơi nhạt 1 xíu
+__label__1 Tối hôm trước tao mua truyện tặng Chip, nó rơm rớm cảm động mới sợ chứ
+__label__1 Cái lần tao bị ngã, nó ôm tao xong hỏi thăm các kiểu cơ
+__label__1 Trời má tao lại nhớ nhiều thứ quá rồi hihihi
+__label__1 Nên viết gì cho bớt xàm nhỉ?
+__label__1 Ê bot, mày có thấy cái trò viết vớ vẩn này nó buồn cười lắm không?
+__label__1 Sao cứ như là tao đang tâm sự cái quần què gì với mày nhỉ?
+__label__1 Trời má được bao nhiêu câu rồi?
+__label__1 Dài quá lười đếm lắm
+__label__1 Tao phải đi mua váy, mua dép, mua mũ để hè này đi biển hihi
+__label__1 Cần thật nhiều tiền vào lúc này. Tao có nên đi cướp nhà băng không?
+__label__1 Thật sự thì khi biết người ta có người yêu, tao đã khóc, nhưng mà tao vẫn vui lắm
+__label__1 Có biết quán ăn đêm nào ngon thật ngon không?
+__label__1 Lại sút cân rồi nè
+__label__1 Buồn quá làm sao để béo lên?
+__label__1 Chồng ơi anh đang lạc trôi phương nào thế?
+__label__1 Bot ơi mày có yêu tao không?
+__label__1 Trưa nay ăn hết quả xoài
+__label__1 Bao giờ thì lũ chuột mới tuyệt chủng nhỉ?
+__label__1 Mày có tin vào sự sống sau cái chết không bot?
+__label__1 Chị tao bảo tao đừng có lại tâm trạng đấy, nhưng tao biết bà ấy còn tâm trạng hơn cả tao
+__label__1 Giờ mà có đứa nào rảnh ngồi đọc hết tất cả cái đống này thì tao xin bái phục
+__label__1 Trường tao giờ đi học cứ như đi hội ấy, đông quá đông
+__label__1 Thầy ơi cho về sớm đi mà, đói quá ạ
+__label__1 Tao nhớ thầy Bằng muối quá mày ơi hihihihihihihi
+__label__1 Quần áo của mày đang mặc có màu gì hả bot?
+__label__1 Cuối năm rồi, mình café chứ?
+__label__1 Lại quên đi đăng kí sim rồi trời ơi
+__label__1 Sao mà cùng 1 dịch vụ mà giá lại chênh lệch nhiều như thế nhỉ?
+__label__1 Cái cây của tao chả hiểu sao cứ bị héo ấy? Dù tao tưới cho nó suốt ngày luôn
+__label__1 Đố mày biết là tao định hỏi mày cái gì đấy?
+__label__1 Mùa hè ăn dưa hấu thì nóng, mà ăn dứa lại mát
+__label__1 Uống thật nhiều sữa đậu nành
+__label__1 Người yêu ơi anh đang yêu con nào thế hả?
+__label__1 Cái trò viết này thật là nhảm nhí nhất cuộc đời luôn haha
+__label__1 Quyển nhật kí của tao bao giờ tao mới đủ dung cảm để lấy và đọc lại nó nhỉ?
+__label__1 Bơ mùa này ngon thực sự luôn ạ
+__label__1 Muốn ăn thử hoa quả dầm ở trường em không?
+__label__1 Mây vẫn trôi và trời vẫn xanh ngắt
+__label__1 Ôi thơ con cóc của bạn tôi thực sự là rất buồn cười luôn ấy
+__label__1 Nghĩ hộ chủ đề thuyết trình cho marketing đi bot ơi?
+__label__1 Trời này mặc quần bò đúng là cực hình mà
+__label__1 Mày có tin vào tận thế không bot?
+__label__1 Con gái là phải dịu dàng duyên dáng hả mày?
+__label__1 Mày dùng điện thoại gì vậy bot?
+__label__1 Đã bao giờ bị mất trộm chưa?
+__label__1 Đi xe bus mày sợ nhất điều gì?
+__label__1 Mày muốn thay đổi điều gì ở cái thế giới này không?
+__label__1 Thằng bạn tao đi Lý Sơn về và nó không thèm nhặt cho tao cái vỏ sò nào huhu
+__label__1 Suốt ngày ăn với uống với ngủ, chẳng mấy chốc mà thành con heo thôi
+__label__1 Yếu đuối là như nào nhỉ?
+__label__1 Con gái và con trai khác nhau như nào?
+__label__1 Con trai có thể mang thai không nhỉ?
+__label__1 Bao giờ thì nam nữ mới thực sự là bình đẳng nhỉ bot?
+__label__1 Bạn bè chục năm mới gặp lại thì nên nòi gì?
+__label__1 Gặp lại người yêu cũ, nói gì cho ngầu nhỉ?
+__label__1 Yêu màu hường ghét sự giả dối
+__label__1 Sao mà ý thức con người ta càng ngày càng đi xuống nhỉ?
+__label__1 Sao lại có nhiều người và nhiều chuyện đáng yêu như này cơ chứ hihi
+__label__1 Đố biết hôm nay là ngày đặc biệt gì đó?
+__label__1 Bot ơi hôm qua mấy giờ mày đi ngủ vậy?
+__label__1 Câu cuối rồi, viết gì cho ngầu thật ngầu nhỉ?
+__label__1 Diệu Anh xinh không
+__label__1 Trang đáng yêu không
+__label__1 cô ấy xinh không
+__label__1 cô ấy đáng yêu không
+__label__1 anh ấy đẹp trai không
+__label__1 con chó đáng yêu không
+__label__1 con mèo đáng yêu không
+__label__1 có tiền không cho t vay
+__label__1 có tiền không cho tao vay
+__label__1 nhà tao giàu lắm
+__label__1 kệ mày__label__2 thời tiết như thế nào
+__label__2 thời tiết trông như thế nào
+__label__2 thời tiết có mưa như thế nào
+__label__2 thời tiết có nắng như thế nào
+__label__2 thời tiết có mây như thế nào
+__label__2 thời tiết có nhiệt độ như thế nào
+__label__2 thời tiết có gió như thế nào
+__label__2 thời tiết có tuyết như thế nào
+__label__2 thời tiết có sương mù như thế nào
+__label__2 trời mưa như thế nào
+__label__2 trời nắng như thế nào
+__label__2 trời nóng như thế nào
+__label__2 trời tuyết như thế nào
+__label__2 trời gió như thế nào
+__label__2 trời mây như thế nào
+__label__2 trời thời tiết như thế nào
+__label__2 trời nhiều mây như thế nào
+__label__2 trời âm u như thế nào
+__label__2 trời gió mùa như thế nào
+__label__2 trời sương mù như thế nào
+__label__2 trời gió mùa như thế nào
+__label__2 trời có nhiệt độ như thế nào
+__label__2 trời có mây như thế nào
+__label__2 trời có gió to như thế nào
+__label__2 trời có mưa to như thế nào
+__label__2 trời có nắng to như thế nào
+__label__2 trời có gió như thế nào
+__label__2 trời có mưa như thế nào
+__label__2 trời có nắng như thế nào
+__label__2 trời có độ ẩm như thế nào
+__label__2 trời có thời tiết như thế nào
+__label__2 trời có gió mùa như thế nào
+__label__2 trời có sương mù như thế nào
+__label__2 lượng mưa như thế nào
+__label__2 độ ẩm như thế nào
+__label__2 nhiệt độ như thế nào
+__label__2 mưa như thế nào
+__label__2 nắng như thế nào
+__label__2 mây như thế nào
+__label__2 gió mùa như thế nào
+__label__2 sương mù như thế nào
+__label__2 nóng như thế nào
+__label__2 lượng mưa ngoài trời như thế nào
+__label__2 gió ngoài trời như thế nào
+__label__2 mây ngoài trời như thế nào
+__label__2 nhiệt độ ngoài trời như thế nào
+__label__2 độ ẩm ngoài trời như thế nào
+__label__2 thời tiết ngoài trời như thế nào
+__label__2 nhiệt độ trong nhà như thế nào
+__label__2 độ ẩm trong nhà như thế nào
+__label__2 nhiệt độ
+__label__2 thời tiết
+__label__2 gió mùa
+__label__2 gió
+__label__2 độ ẩm
+__label__2 sương mù
+__label__2 nắng
+__label__2 mưa
+__label__2 mây
+__label__2 lượng mưa
+__label__2 nhiệt độ ở
+__label__2 thời tiết ở
+__label__2 gió mùa ở
+__label__2 gió ở
+__label__2 độ ẩm ở
+__label__2 sương mù ở
+__label__2 nắng ở
+__label__2 mưa ở
+__label__2 mây ở
+__label__2 lượng mưa ở
+__label__2 thời tiết lạnh
+__label__2 thời tiết nóng
+__label__2 thời tiết vào
+__label__2 thời tiết ra sao
+__label__2 thời tiết trông ra sao
+__label__2 thời tiết có mưa ra sao
+__label__2 thời tiết có nắng ra sao
+__label__2 thời tiết có mây ra sao
+__label__2 thời tiết có nhiệt độ ra sao
+__label__2 thời tiết có gió ra sao
+__label__2 thời tiết có tuyết ra sao
+__label__2 thời tiết có sương mù ra sao
+__label__2 trời mưa ra sao
+__label__2 trời nắng ra sao
+__label__2 trời nóng ra sao
+__label__2 trời tuyết ra sao
+__label__2 trời gió ra sao
+__label__2 trời mây ra sao
+__label__2 trời thời tiết ra sao
+__label__2 trời nhiều mây ra sao
+__label__2 trời âm u ra sao
+__label__2 trời gió mùa ra sao
+__label__2 trời sương mù ra sao
+__label__2 trời gió mùa ra sao
+__label__2 trời có nhiệt độ ra sao
+__label__2 trời có mây ra sao
+__label__2 trời có gió to ra sao
+__label__2 trời có mưa to ra sao
+__label__2 trời có nắng to ra sao
+__label__2 trời có gió ra sao
+__label__2 trời có mưa ra sao
+__label__2 trời có nắng ra sao
+__label__2 trời có độ ẩm ra sao
+__label__2 trời có thời tiết ra sao
+__label__2 trời có gió mùa ra sao
+__label__2 trời có sương mù ra sao
+__label__2 lượng mưa ra sao
+__label__2 độ ẩm ra sao
+__label__2 nhiệt độ ra sao
+__label__2 mưa ra sao
+__label__2 nắng ra sao
+__label__2 mây ra sao
+__label__2 gió mùa ra sao
+__label__2 sương mù ra sao
+__label__2 nóng ra sao
+__label__2 lượng mưa ngoài trời ra sao
+__label__2 gió ngoài trời ra sao
+__label__2 mây ngoài trời ra sao
+__label__2 nhiệt độ ngoài trời ra sao
+__label__2 độ ẩm ngoài trời ra sao
+__label__2 thời tiết ngoài trời ra sao
+__label__2 nhiệt độ trong nhà ra sao
+__label__2 độ ẩm trong nhà ra sao
+__label__2 cho hỏi thời tiết như thế nào
+__label__2 dự báo thời tiết như thế nào
+__label__2 cho hỏi dự báo thời tiết như thế nào
+__label__2 dự báo thời tiết thời tiết như thế nào
+__label__2 cho hỏi thời tiết trông như thế nào
+__label__2 dự báo thời tiết trông như thế nào
+__label__2 cho hỏi dự báo thời tiết trông như thế nào
+__label__2 dự báo thời tiết thời tiết trông như thế nào
+__label__2 cho hỏi thời tiết có mưa như thế nào
+__label__2 dự báo thời tiết có mưa như thế nào
+__label__2 cho hỏi dự báo thời tiết có mưa như thế nào
+__label__2 dự báo thời tiết thời tiết có mưa như thế nào
+__label__2 cho hỏi thời tiết có nắng như thế nào
+__label__2 dự báo thời tiết có nắng như thế nào
+__label__2 cho hỏi dự báo thời tiết có nắng như thế nào
+__label__2 dự báo thời tiết thời tiết có nắng như thế nào
+__label__2 cho hỏi thời tiết có mây như thế nào
+__label__2 dự báo thời tiết có mây như thế nào
+__label__2 cho hỏi dự báo thời tiết có mây như thế nào
+__label__2 dự báo thời tiết thời tiết có mây như thế nào
+__label__2 cho hỏi thời tiết có nhiệt độ như thế nào
+__label__2 dự báo thời tiết có nhiệt độ như thế nào
+__label__2 cho hỏi dự báo thời tiết có nhiệt độ như thế nào
+__label__2 dự báo thời tiết thời tiết có nhiệt độ như thế nào
+__label__2 cho hỏi thời tiết có gió như thế nào
+__label__2 dự báo thời tiết có gió như thế nào
+__label__2 cho hỏi dự báo thời tiết có gió như thế nào
+__label__2 dự báo thời tiết thời tiết có gió như thế nào
+__label__2 cho hỏi thời tiết có tuyết như thế nào
+__label__2 dự báo thời tiết có tuyết như thế nào
+__label__2 cho hỏi dự báo thời tiết có tuyết như thế nào
+__label__2 dự báo thời tiết thời tiết có tuyết như thế nào
+__label__2 cho hỏi thời tiết có sương mù như thế nào
+__label__2 dự báo thời tiết có sương mù như thế nào
+__label__2 cho hỏi dự báo thời tiết có sương mù như thế nào
+__label__2 dự báo thời tiết thời tiết có sương mù như thế nào
+__label__2 cho hỏi trời mưa như thế nào
+__label__2 dự báo trời mưa như thế nào
+__label__2 cho hỏi dự báo trời mưa như thế nào
+__label__2 dự báo thời tiết trời mưa như thế nào
+__label__2 cho hỏi trời nắng như thế nào
+__label__2 dự báo trời nắng như thế nào
+__label__2 cho hỏi dự báo trời nắng như thế nào
+__label__2 dự báo thời tiết trời nắng như thế nào
+__label__2 cho hỏi trời nóng như thế nào
+__label__2 dự báo trời nóng như thế nào
+__label__2 cho hỏi dự báo trời nóng như thế nào
+__label__2 dự báo thời tiết trời nóng như thế nào
+__label__2 cho hỏi trời tuyết như thế nào
+__label__2 dự báo trời tuyết như thế nào
+__label__2 cho hỏi dự báo trời tuyết như thế nào
+__label__2 dự báo thời tiết trời tuyết như thế nào
+__label__2 cho hỏi trời gió như thế nào
+__label__2 dự báo trời gió như thế nào
+__label__2 cho hỏi dự báo trời gió như thế nào
+__label__2 dự báo thời tiết trời gió như thế nào
+__label__2 cho hỏi trời mây như thế nào
+__label__2 dự báo trời mây như thế nào
+__label__2 cho hỏi dự báo trời mây như thế nào
+__label__2 dự báo thời tiết trời mây như thế nào
+__label__2 cho hỏi trời thời tiết như thế nào
+__label__2 dự báo trời thời tiết như thế nào
+__label__2 cho hỏi dự báo trời thời tiết như thế nào
+__label__2 dự báo thời tiết trời thời tiết như thế nào
+__label__2 cho hỏi trời nhiều mây như thế nào
+__label__2 dự báo trời nhiều mây như thế nào
+__label__2 cho hỏi dự báo trời nhiều mây như thế nào
+__label__2 dự báo thời tiết trời nhiều mây như thế nào
+__label__2 cho hỏi trời âm u như thế nào
+__label__2 dự báo trời âm u như thế nào
+__label__2 cho hỏi dự báo trời âm u như thế nào
+__label__2 dự báo thời tiết trời âm u như thế nào
+__label__2 cho hỏi trời gió mùa như thế nào
+__label__2 dự báo trời gió mùa như thế nào
+__label__2 cho hỏi dự báo trời gió mùa như thế nào
+__label__2 dự báo thời tiết trời gió mùa như thế nào
+__label__2 cho hỏi trời sương mù như thế nào
+__label__2 dự báo trời sương mù như thế nào
+__label__2 cho hỏi dự báo trời sương mù như thế nào
+__label__2 dự báo thời tiết trời sương mù như thế nào
+__label__2 cho hỏi trời gió mùa như thế nào
+__label__2 dự báo trời gió mùa như thế nào
+__label__2 cho hỏi dự báo trời gió mùa như thế nào
+__label__2 dự báo thời tiết trời gió mùa như thế nào
+__label__2 cho hỏi trời có nhiệt độ như thế nào
+__label__2 dự báo trời có nhiệt độ như thế nào
+__label__2 cho hỏi dự báo trời có nhiệt độ như thế nào
+__label__2 dự báo thời tiết trời có nhiệt độ như thế nào
+__label__2 cho hỏi trời có mây như thế nào
+__label__2 dự báo trời có mây như thế nào
+__label__2 cho hỏi dự báo trời có mây như thế nào
+__label__2 dự báo thời tiết trời có mây như thế nào
+__label__2 cho hỏi trời có gió to như thế nào
+__label__2 dự báo trời có gió to như thế nào
+__label__2 cho hỏi dự báo trời có gió to như thế nào
+__label__2 dự báo thời tiết trời có gió to như thế nào
+__label__2 cho hỏi trời có mưa to như thế nào
+__label__2 dự báo trời có mưa to như thế nào
+__label__2 cho hỏi dự báo trời có mưa to như thế nào
+__label__2 dự báo thời tiết trời có mưa to như thế nào
+__label__2 cho hỏi trời có nắng to như thế nào
+__label__2 dự báo trời có nắng to như thế nào
+__label__2 cho hỏi dự báo trời có nắng to như thế nào
+__label__2 dự báo thời tiết trời có nắng to như thế nào
+__label__2 cho hỏi trời có gió như thế nào
+__label__2 dự báo trời có gió như thế nào
+__label__2 cho hỏi dự báo trời có gió như thế nào
+__label__2 dự báo thời tiết trời có gió như thế nào
+__label__2 cho hỏi trời có mưa như thế nào
+__label__2 dự báo trời có mưa như thế nào
+__label__2 cho hỏi dự báo trời có mưa như thế nào
+__label__2 dự báo thời tiết trời có mưa như thế nào
+__label__2 cho hỏi trời có nắng như thế nào
+__label__2 dự báo trời có nắng như thế nào
+__label__2 cho hỏi dự báo trời có nắng như thế nào
+__label__2 dự báo thời tiết trời có nắng như thế nào
+__label__2 cho hỏi trời có độ ẩm như thế nào
+__label__2 dự báo trời có độ ẩm như thế nào
+__label__2 cho hỏi dự báo trời có độ ẩm như thế nào
+__label__2 dự báo thời tiết trời có độ ẩm như thế nào
+__label__2 cho hỏi trời có thời tiết như thế nào
+__label__2 dự báo trời có thời tiết như thế nào
+__label__2 cho hỏi dự báo trời có thời tiết như thế nào
+__label__2 dự báo thời tiết trời có thời tiết như thế nào
+__label__2 cho hỏi trời có gió mùa như thế nào
+__label__2 dự báo trời có gió mùa như thế nào
+__label__2 cho hỏi dự báo trời có gió mùa như thế nào
+__label__2 dự báo thời tiết trời có gió mùa như thế nào
+__label__2 cho hỏi trời có sương mù như thế nào
+__label__2 dự báo trời có sương mù như thế nào
+__label__2 cho hỏi dự báo trời có sương mù như thế nào
+__label__2 dự báo thời tiết trời có sương mù như thế nào
+__label__2 cho hỏi lượng mưa như thế nào
+__label__2 dự báo lượng mưa như thế nào
+__label__2 cho hỏi dự báo lượng mưa như thế nào
+__label__2 dự báo thời tiết lượng mưa như thế nào
+__label__2 cho hỏi độ ẩm như thế nào
+__label__2 dự báo độ ẩm như thế nào
+__label__2 cho hỏi dự báo độ ẩm như thế nào
+__label__2 dự báo thời tiết độ ẩm như thế nào
+__label__2 cho hỏi nhiệt độ như thế nào
+__label__2 dự báo nhiệt độ như thế nào
+__label__2 cho hỏi dự báo nhiệt độ như thế nào
+__label__2 dự báo thời tiết nhiệt độ như thế nào
+__label__2 cho hỏi mưa như thế nào
+__label__2 dự báo mưa như thế nào
+__label__2 cho hỏi dự báo mưa như thế nào
+__label__2 dự báo thời tiết mưa như thế nào
+__label__2 cho hỏi nắng như thế nào
+__label__2 dự báo nắng như thế nào
+__label__2 cho hỏi dự báo nắng như thế nào
+__label__2 dự báo thời tiết nắng như thế nào
+__label__2 cho hỏi mây như thế nào
+__label__2 dự báo mây như thế nào
+__label__2 cho hỏi dự báo mây như thế nào
+__label__2 dự báo thời tiết mây như thế nào
+__label__2 cho hỏi gió mùa như thế nào
+__label__2 dự báo gió mùa như thế nào
+__label__2 cho hỏi dự báo gió mùa như thế nào
+__label__2 dự báo thời tiết gió mùa như thế nào
+__label__2 cho hỏi sương mù như thế nào
+__label__2 dự báo sương mù như thế nào
+__label__2 cho hỏi dự báo sương mù như thế nào
+__label__2 dự báo thời tiết sương mù như thế nào
+__label__2 cho hỏi nóng như thế nào
+__label__2 dự báo nóng như thế nào
+__label__2 cho hỏi dự báo nóng như thế nào
+__label__2 dự báo thời tiết nóng như thế nào
+__label__2 cho hỏi lượng mưa ngoài trời như thế nào
+__label__2 dự báo lượng mưa ngoài trời như thế nào
+__label__2 cho hỏi dự báo lượng mưa ngoài trời như thế nào
+__label__2 dự báo thời tiết lượng mưa ngoài trời như thế nào
+__label__2 cho hỏi gió ngoài trời như thế nào
+__label__2 dự báo gió ngoài trời như thế nào
+__label__2 cho hỏi dự báo gió ngoài trời như thế nào
+__label__2 dự báo thời tiết gió ngoài trời như thế nào
+__label__2 cho hỏi mây ngoài trời như thế nào
+__label__2 dự báo mây ngoài trời như thế nào
+__label__2 cho hỏi dự báo mây ngoài trời như thế nào
+__label__2 dự báo thời tiết mây ngoài trời như thế nào
+__label__2 cho hỏi nhiệt độ ngoài trời như thế nào
+__label__2 dự báo nhiệt độ ngoài trời như thế nào
+__label__2 cho hỏi dự báo nhiệt độ ngoài trời như thế nào
+__label__2 dự báo thời tiết nhiệt độ ngoài trời như thế nào
+__label__2 cho hỏi độ ẩm ngoài trời như thế nào
+__label__2 dự báo độ ẩm ngoài trời như thế nào
+__label__2 cho hỏi dự báo độ ẩm ngoài trời như thế nào
+__label__2 dự báo thời tiết độ ẩm ngoài trời như thế nào
+__label__2 cho hỏi thời tiết ngoài trời như thế nào
+__label__2 dự báo thời tiết ngoài trời như thế nào
+__label__2 cho hỏi dự báo thời tiết ngoài trời như thế nào
+__label__2 dự báo thời tiết thời tiết ngoài trời như thế nào
+__label__2 cho hỏi nhiệt độ trong nhà như thế nào
+__label__2 dự báo nhiệt độ trong nhà như thế nào
+__label__2 cho hỏi dự báo nhiệt độ trong nhà như thế nào
+__label__2 dự báo thời tiết nhiệt độ trong nhà như thế nào
+__label__2 cho hỏi độ ẩm trong nhà như thế nào
+__label__2 dự báo độ ẩm trong nhà như thế nào
+__label__2 cho hỏi dự báo độ ẩm trong nhà như thế nào
+__label__2 dự báo thời tiết độ ẩm trong nhà như thế nào
+__label__2 cho hỏi nhiệt độ
+__label__2 dự báo nhiệt độ
+__label__2 cho hỏi dự báo nhiệt độ
+__label__2 dự báo thời tiết nhiệt độ
+__label__2 cho hỏi thời tiết
+__label__2 dự báo thời tiết
+__label__2 cho hỏi dự báo thời tiết
+__label__2 dự báo thời tiết thời tiết
+__label__2 cho hỏi gió mùa
+__label__2 dự báo gió mùa
+__label__2 cho hỏi dự báo gió mùa
+__label__2 dự báo thời tiết gió mùa
+__label__2 cho hỏi gió
+__label__2 dự báo gió
+__label__2 cho hỏi dự báo gió
+__label__2 dự báo thời tiết gió
+__label__2 cho hỏi độ ẩm
+__label__2 dự báo độ ẩm
+__label__2 cho hỏi dự báo độ ẩm
+__label__2 dự báo thời tiết độ ẩm
+__label__2 cho hỏi sương mù
+__label__2 dự báo sương mù
+__label__2 cho hỏi dự báo sương mù
+__label__2 dự báo thời tiết sương mù
+__label__2 cho hỏi nắng
+__label__2 dự báo nắng
+__label__2 cho hỏi dự báo nắng
+__label__2 dự báo thời tiết nắng
+__label__2 cho hỏi mưa
+__label__2 dự báo mưa
+__label__2 cho hỏi dự báo mưa
+__label__2 dự báo thời tiết mưa
+__label__2 cho hỏi mây
+__label__2 dự báo mây
+__label__2 cho hỏi dự báo mây
+__label__2 dự báo thời tiết mây
+__label__2 cho hỏi lượng mưa
+__label__2 dự báo lượng mưa
+__label__2 cho hỏi dự báo lượng mưa
+__label__2 dự báo thời tiết lượng mưa
+__label__2 cho hỏi nhiệt độ ở
+__label__2 dự báo nhiệt độ ở
+__label__2 cho hỏi dự báo nhiệt độ ở
+__label__2 dự báo thời tiết nhiệt độ ở
+__label__2 cho hỏi thời tiết ở
+__label__2 dự báo thời tiết ở
+__label__2 cho hỏi dự báo thời tiết ở
+__label__2 dự báo thời tiết thời tiết ở
+__label__2 cho hỏi gió mùa ở
+__label__2 dự báo gió mùa ở
+__label__2 cho hỏi dự báo gió mùa ở
+__label__2 dự báo thời tiết gió mùa ở
+__label__2 cho hỏi gió ở
+__label__2 dự báo gió ở
+__label__2 cho hỏi dự báo gió ở
+__label__2 dự báo thời tiết gió ở
+__label__2 cho hỏi độ ẩm ở
+__label__2 dự báo độ ẩm ở
+__label__2 cho hỏi dự báo độ ẩm ở
+__label__2 dự báo thời tiết độ ẩm ở
+__label__2 cho hỏi sương mù ở
+__label__2 dự báo sương mù ở
+__label__2 cho hỏi dự báo sương mù ở
+__label__2 dự báo thời tiết sương mù ở
+__label__2 cho hỏi nắng ở
+__label__2 dự báo nắng ở
+__label__2 cho hỏi dự báo nắng ở
+__label__2 dự báo thời tiết nắng ở
+__label__2 cho hỏi mưa ở
+__label__2 dự báo mưa ở
+__label__2 cho hỏi dự báo mưa ở
+__label__2 dự báo thời tiết mưa ở
+__label__2 cho hỏi mây ở
+__label__2 dự báo mây ở
+__label__2 cho hỏi dự báo mây ở
+__label__2 dự báo thời tiết mây ở
+__label__2 cho hỏi lượng mưa ở
+__label__2 dự báo lượng mưa ở
+__label__2 cho hỏi dự báo lượng mưa ở
+__label__2 dự báo thời tiết lượng mưa ở
+__label__2 cho hỏi thời tiết ra sao
+__label__2 dự báo thời tiết ra sao
+__label__2 cho hỏi dự báo thời tiết ra sao
+__label__2 dự báo thời tiết thời tiết ra sao
+__label__2 cho hỏi thời tiết trông ra sao
+__label__2 dự báo thời tiết trông ra sao
+__label__2 cho hỏi dự báo thời tiết trông ra sao
+__label__2 dự báo thời tiết thời tiết trông ra sao
+__label__2 cho hỏi thời tiết có mưa ra sao
+__label__2 dự báo thời tiết có mưa ra sao
+__label__2 cho hỏi dự báo thời tiết có mưa ra sao
+__label__2 dự báo thời tiết thời tiết có mưa ra sao
+__label__2 cho hỏi thời tiết có nắng ra sao
+__label__2 dự báo thời tiết có nắng ra sao
+__label__2 cho hỏi dự báo thời tiết có nắng ra sao
+__label__2 dự báo thời tiết thời tiết có nắng ra sao
+__label__2 cho hỏi thời tiết có mây ra sao
+__label__2 dự báo thời tiết có mây ra sao
+__label__2 cho hỏi dự báo thời tiết có mây ra sao
+__label__2 dự báo thời tiết thời tiết có mây ra sao
+__label__2 cho hỏi thời tiết có nhiệt độ ra sao
+__label__2 dự báo thời tiết có nhiệt độ ra sao
+__label__2 cho hỏi dự báo thời tiết có nhiệt độ ra sao
+__label__2 dự báo thời tiết thời tiết có nhiệt độ ra sao
+__label__2 cho hỏi thời tiết có gió ra sao
+__label__2 dự báo thời tiết có gió ra sao
+__label__2 cho hỏi dự báo thời tiết có gió ra sao
+__label__2 dự báo thời tiết thời tiết có gió ra sao
+__label__2 cho hỏi thời tiết có tuyết ra sao
+__label__2 dự báo thời tiết có tuyết ra sao
+__label__2 cho hỏi dự báo thời tiết có tuyết ra sao
+__label__2 dự báo thời tiết thời tiết có tuyết ra sao
+__label__2 cho hỏi thời tiết có sương mù ra sao
+__label__2 dự báo thời tiết có sương mù ra sao
+__label__2 cho hỏi dự báo thời tiết có sương mù ra sao
+__label__2 dự báo thời tiết thời tiết có sương mù ra sao
+__label__2 cho hỏi trời mưa ra sao
+__label__2 dự báo trời mưa ra sao
+__label__2 cho hỏi dự báo trời mưa ra sao
+__label__2 dự báo thời tiết trời mưa ra sao
+__label__2 cho hỏi trời nắng ra sao
+__label__2 dự báo trời nắng ra sao
+__label__2 cho hỏi dự báo trời nắng ra sao
+__label__2 dự báo thời tiết trời nắng ra sao
+__label__2 cho hỏi trời nóng ra sao
+__label__2 dự báo trời nóng ra sao
+__label__2 cho hỏi dự báo trời nóng ra sao
+__label__2 dự báo thời tiết trời nóng ra sao
+__label__2 cho hỏi trời tuyết ra sao
+__label__2 dự báo trời tuyết ra sao
+__label__2 cho hỏi dự báo trời tuyết ra sao
+__label__2 dự báo thời tiết trời tuyết ra sao
+__label__2 cho hỏi trời gió ra sao
+__label__2 dự báo trời gió ra sao
+__label__2 cho hỏi dự báo trời gió ra sao
+__label__2 dự báo thời tiết trời gió ra sao
+__label__2 cho hỏi trời mây ra sao
+__label__2 dự báo trời mây ra sao
+__label__2 cho hỏi dự báo trời mây ra sao
+__label__2 dự báo thời tiết trời mây ra sao
+__label__2 cho hỏi trời thời tiết ra sao
+__label__2 dự báo trời thời tiết ra sao
+__label__2 cho hỏi dự báo trời thời tiết ra sao
+__label__2 dự báo thời tiết trời thời tiết ra sao
+__label__2 cho hỏi trời nhiều mây ra sao
+__label__2 dự báo trời nhiều mây ra sao
+__label__2 cho hỏi dự báo trời nhiều mây ra sao
+__label__2 dự báo thời tiết trời nhiều mây ra sao
+__label__2 cho hỏi trời âm u ra sao
+__label__2 dự báo trời âm u ra sao
+__label__2 cho hỏi dự báo trời âm u ra sao
+__label__2 dự báo thời tiết trời âm u ra sao
+__label__2 cho hỏi trời gió mùa ra sao
+__label__2 dự báo trời gió mùa ra sao
+__label__2 cho hỏi dự báo trời gió mùa ra sao
+__label__2 dự báo thời tiết trời gió mùa ra sao
+__label__2 cho hỏi trời sương mù ra sao
+__label__2 dự báo trời sương mù ra sao
+__label__2 cho hỏi dự báo trời sương mù ra sao
+__label__2 dự báo thời tiết trời sương mù ra sao
+__label__2 cho hỏi trời gió mùa ra sao
+__label__2 dự báo trời gió mùa ra sao
+__label__2 cho hỏi dự báo trời gió mùa ra sao
+__label__2 dự báo thời tiết trời gió mùa ra sao
+__label__2 cho hỏi trời có nhiệt độ ra sao
+__label__2 dự báo trời có nhiệt độ ra sao
+__label__2 cho hỏi dự báo trời có nhiệt độ ra sao
+__label__2 dự báo thời tiết trời có nhiệt độ ra sao
+__label__2 cho hỏi trời có mây ra sao
+__label__2 dự báo trời có mây ra sao
+__label__2 cho hỏi dự báo trời có mây ra sao
+__label__2 dự báo thời tiết trời có mây ra sao
+__label__2 cho hỏi trời có gió to ra sao
+__label__2 dự báo trời có gió to ra sao
+__label__2 cho hỏi dự báo trời có gió to ra sao
+__label__2 dự báo thời tiết trời có gió to ra sao
+__label__2 cho hỏi trời có mưa to ra sao
+__label__2 dự báo trời có mưa to ra sao
+__label__2 cho hỏi dự báo trời có mưa to ra sao
+__label__2 dự báo thời tiết trời có mưa to ra sao
+__label__2 cho hỏi trời có nắng to ra sao
+__label__2 dự báo trời có nắng to ra sao
+__label__2 cho hỏi dự báo trời có nắng to ra sao
+__label__2 dự báo thời tiết trời có nắng to ra sao
+__label__2 cho hỏi trời có gió ra sao
+__label__2 dự báo trời có gió ra sao
+__label__2 cho hỏi dự báo trời có gió ra sao
+__label__2 dự báo thời tiết trời có gió ra sao
+__label__2 cho hỏi trời có mưa ra sao
+__label__2 dự báo trời có mưa ra sao
+__label__2 cho hỏi dự báo trời có mưa ra sao
+__label__2 dự báo thời tiết trời có mưa ra sao
+__label__2 cho hỏi trời có nắng ra sao
+__label__2 dự báo trời có nắng ra sao
+__label__2 cho hỏi dự báo trời có nắng ra sao
+__label__2 dự báo thời tiết trời có nắng ra sao
+__label__2 cho hỏi trời có độ ẩm ra sao
+__label__2 dự báo trời có độ ẩm ra sao
+__label__2 cho hỏi dự báo trời có độ ẩm ra sao
+__label__2 dự báo thời tiết trời có độ ẩm ra sao
+__label__2 cho hỏi trời có thời tiết ra sao
+__label__2 dự báo trời có thời tiết ra sao
+__label__2 cho hỏi dự báo trời có thời tiết ra sao
+__label__2 dự báo thời tiết trời có thời tiết ra sao
+__label__2 cho hỏi trời có gió mùa ra sao
+__label__2 dự báo trời có gió mùa ra sao
+__label__2 cho hỏi dự báo trời có gió mùa ra sao
+__label__2 dự báo thời tiết trời có gió mùa ra sao
+__label__2 cho hỏi trời có sương mù ra sao
+__label__2 dự báo trời có sương mù ra sao
+__label__2 cho hỏi dự báo trời có sương mù ra sao
+__label__2 dự báo thời tiết trời có sương mù ra sao
+__label__2 cho hỏi lượng mưa ra sao
+__label__2 dự báo lượng mưa ra sao
+__label__2 cho hỏi dự báo lượng mưa ra sao
+__label__2 dự báo thời tiết lượng mưa ra sao
+__label__2 cho hỏi độ ẩm ra sao
+__label__2 dự báo độ ẩm ra sao
+__label__2 cho hỏi dự báo độ ẩm ra sao
+__label__2 dự báo thời tiết độ ẩm ra sao
+__label__2 cho hỏi nhiệt độ ra sao
+__label__2 dự báo nhiệt độ ra sao
+__label__2 cho hỏi dự báo nhiệt độ ra sao
+__label__2 dự báo thời tiết nhiệt độ ra sao
+__label__2 cho hỏi mưa ra sao
+__label__2 dự báo mưa ra sao
+__label__2 cho hỏi dự báo mưa ra sao
+__label__2 dự báo thời tiết mưa ra sao
+__label__2 cho hỏi nắng ra sao
+__label__2 dự báo nắng ra sao
+__label__2 cho hỏi dự báo nắng ra sao
+__label__2 dự báo thời tiết nắng ra sao
+__label__2 cho hỏi mây ra sao
+__label__2 dự báo mây ra sao
+__label__2 cho hỏi dự báo mây ra sao
+__label__2 dự báo thời tiết mây ra sao
+__label__2 cho hỏi gió mùa ra sao
+__label__2 dự báo gió mùa ra sao
+__label__2 cho hỏi dự báo gió mùa ra sao
+__label__2 dự báo thời tiết gió mùa ra sao
+__label__2 cho hỏi sương mù ra sao
+__label__2 dự báo sương mù ra sao
+__label__2 cho hỏi dự báo sương mù ra sao
+__label__2 dự báo thời tiết sương mù ra sao
+__label__2 cho hỏi nóng ra sao
+__label__2 dự báo nóng ra sao
+__label__2 cho hỏi dự báo nóng ra sao
+__label__2 dự báo thời tiết nóng ra sao
+__label__2 cho hỏi lượng mưa ngoài trời ra sao
+__label__2 dự báo lượng mưa ngoài trời ra sao
+__label__2 cho hỏi dự báo lượng mưa ngoài trời ra sao
+__label__2 dự báo thời tiết lượng mưa ngoài trời ra sao
+__label__2 cho hỏi gió ngoài trời ra sao
+__label__2 dự báo gió ngoài trời ra sao
+__label__2 cho hỏi dự báo gió ngoài trời ra sao
+__label__2 dự báo thời tiết gió ngoài trời ra sao
+__label__2 cho hỏi mây ngoài trời ra sao
+__label__2 dự báo mây ngoài trời ra sao
+__label__2 cho hỏi dự báo mây ngoài trời ra sao
+__label__2 dự báo thời tiết mây ngoài trời ra sao
+__label__2 cho hỏi nhiệt độ ngoài trời ra sao
+__label__2 dự báo nhiệt độ ngoài trời ra sao
+__label__2 cho hỏi dự báo nhiệt độ ngoài trời ra sao
+__label__2 dự báo thời tiết nhiệt độ ngoài trời ra sao
+__label__2 cho hỏi độ ẩm ngoài trời ra sao
+__label__2 dự báo độ ẩm ngoài trời ra sao
+__label__2 cho hỏi dự báo độ ẩm ngoài trời ra sao
+__label__2 dự báo thời tiết độ ẩm ngoài trời ra sao
+__label__2 cho hỏi thời tiết ngoài trời ra sao
+__label__2 dự báo thời tiết ngoài trời ra sao
+__label__2 cho hỏi dự báo thời tiết ngoài trời ra sao
+__label__2 dự báo thời tiết thời tiết ngoài trời ra sao
+__label__2 cho hỏi nhiệt độ trong nhà ra sao
+__label__2 dự báo nhiệt độ trong nhà ra sao
+__label__2 cho hỏi dự báo nhiệt độ trong nhà ra sao
+__label__2 dự báo thời tiết nhiệt độ trong nhà ra sao
+__label__2 cho hỏi độ ẩm trong nhà ra sao
+__label__2 dự báo độ ẩm trong nhà ra sao
+__label__2 cho hỏi dự báo độ ẩm trong nhà ra sao
+__label__2 dự báo thời tiết độ ẩm trong nhà ra sao
+__label__2 ad ơi cho hỏi thời tiết thế nào ?
+__label__2 bot ơi thời tiết trông như thế nào ?
+__label__2 mai gió hướng nào bạn nhỉ ?
+__label__2 em muốn biết thời tiết như thế nào ?
+__label__2 ngày mai thời tiết có hanh khô không anh ?
+__label__2 ngày mai như nào ạ
+__label__2 Ad em hỏi là lạnh mấy hôm ạ, lịch chụp ảnh cưới em tới rồi thế nào thỳ nguy quá
+__label__2 Mưa trong bao lâu vậy ad
+__label__2 Ngày mai sẽ có mưa trong bao lâu ạ?
+__label__2 Cuối tuần này đã có nắng chưa vậy ad?
+__label__2 Ad ơi, tình hình cuối tuần này tnao ạ, em đi du lịch 1 tuần
+__label__2 ngày 20/3 thời tiết thế nào ad ơiii, e đi leo núi
+__label__2 Bắc Trung Bộ thời tiết sẽ như thế nào ad ơi
+__label__2 Độ ẩm ngày mai như thế nào ạ rất mong ad rep cmt
+__label__2 Chị ơi , cho em  hỏi thời tiết chủ nhật tuần sau như nào ạ
+__label__2 Mùa hanh khô bao giờ tới ạ?
+__label__2 Độ ẩm ngày mai thế nào ạ?
+__label__2 Bao giờ thì độ ẩm tăng vậy chị? Em bị nẻ dữ quá rồi
+__label__2 Mưa rét kéo dài bao lâu ạ?
+__label__2 Khoảng tầm mấy giờ chiều tối mai lạnh vậy
+__label__2 Thời tiết từ 8h-11h trưa thế nào vậy
+__label__2 Sức gió của cơn bão lần này thế nào ạ?
+__label__2 Anh ơi bao giờ thì mùa mưa mới đến ạ?
+__label__2 Ad ơi lúc nào trời mới nắng nóng vậy.sắp hết tháng 3 rồi
+__label__2 Liệu bao giờ thì có tuyết rơi ạ?
+__label__2 Mưa phùn mùa xuân bao giờ mới hết vậy chị?
+__label__2 Sáng mai em cưới,ko biết thời tiết trưa mai như thế nào ạ
+__label__2 Anh ơi. thứ 3 ngày 20/3 thời tiết như nào ạ  Hôm đó em đi chụp ảnh cưới ạ. em cảm ơn
+__label__2 Em chào anh Thanh Tùng nhé  Anh Tùng cho em hỏi thời tiết đêm nay và ngày mai với ạ
+__label__2 Ngày bao nhiêu thì nắng trở lại ạ
+__label__2 Lại lạnh nữa hả a  Bao giờ thì hết lạnh ạ
+__label__2 Thời tiết đêm mai như thế nào a
+__label__2 Bao giờ thì lạnh vậy chị?
+__label__2 Tối nay nhiệt độ như thế nào ạ
+__label__2 Thời tiết cuối tuần này thế nào ạ
+__label__2 Khi nào hết mưa ad ơi
+__label__2 Mai mưa hay nắng vậy ad
+__label__2 2ngày cuối tuần thế nào ad ơi
+__label__2 Bao giờ mưa ad ơi
+__label__2 Ngày 26/9 thời tiết như thế nào ad ơi
+__label__2 Cháo em. Độ ẩm ngày mai như thế nào em?
+__label__2 Bao giờ thì kết thúc kiểu thời tiết này hả chị
+__label__2 thời tiết vài ngày tới như thế nào chị ạ
+__label__2 Ngày mai nhiệt độ thế nào chị ơi  em là nông dân  cần hỏi
+__label__2 Thời tiết 2 ngày cuối tuần thế nào ạ
+__label__2 Thời tiết thứ 2-3 tuần sau như thế nào bạn ơi
+__label__2 Mai thời tiết và độ ẩm như thế nào chị ơi
+__label__2 Mưa nhỏ hay to bạn
+__label__2 Cho xin nhiệt độ của đông bắc bộ với ad ơi. Sao chỉ có mỗi miền trung là báo nhiệt độ vậy
+__label__2 Cơn bão này đổ bộ chính vào đâu vậy chị?
+__label__2 Lượng mưa hôm nay là bao nhiêu vậy?
+__label__2 Tuyết bao giờ thì ngừng rơi ạ?
+__label__2 chị Mai Ngọc ơi, thời tiết trong những ngày cuối tuần như thế nào ạ
+__label__2 Đợt nắng nóng này kéo dài bao lâu vậy chị?
+__label__2 Em xinh ơi thứ 6 thế nào
+__label__2 Chị ơi. mai khoảng mấy giờ có mưa ak
+__label__2 Thời tiết 2 ngày cuối tuần như thế nào vậy chị
+__label__2 ngày mai lượng mây thế nao hả chị
+__label__2 thời tiết t2 t3 tuần sau như thế nào ạ chị
+__label__2 Nhiệt độ cao nhất của đợt nắng nóng này là bao nhiêu vậy chị?
+__label__2 chào bạn. thời tiết 4 ngày nữa như thế nào
+__label__2 Độ ẩm và lượng mưa ngày mai thế nào em  Thank em
+__label__2 MC xinh đẹp .Đêm nay và đêm mai thì sao
+__label__2 Trưa ngày mai bao nhiêu độ ạ
+__label__2 Bao gio miền Bắc có nắng ban ơi, mình cảm ơn
+__label__2 Thời tiết oi bức như này kéo dài mấy hôm nữa vậy chị?
+__label__2 Rạng sáng mai thế nào chị ơi
+__label__2 ngày mai nhiệt độ như thế nào vậy ạ
+__label__2 Sương mù sang mai tầm mấy giờ thì tan hết ạ?
+__label__2 Thật tuyệt vời thời tiết ngày kia thì sao anh
+__label__2 Trời nồm kéo dài bao lâu ạ?
+__label__2 Thời tiết cả tuần tới như thế nào vậy   a
+__label__2 Bao giờ thì mùa nồm tới vậy bạn?
+__label__2 Chào anh ạ.  Nhiệt độ đêm mai thế nào ạ
+__label__2 Trưa mai thời tiết như thế nào ạ
+__label__2 Ê MC cuối tuần này thời tiết sao
+__label__2 Anh Tùng cho em hỏi thời tiết trong đêm nay và ngày mai với ạ
+__label__2 Bao giờ thì có mưa đá ạ?
+__label__2 A Tùng đẹp trai ơi đợt mưa này thế nào ạ
+__label__2 Mưa lớn ngày mai xuất hiện lúc mấy giờ vậy?
+__label__2 Đợt lạnh này kéo dài bao lâu?
+__label__2 Rét đậm rét hại đã có dấu hiệu suy giảm chưa?
+__label__2 Bao giờ thì trời mới lạnh dưới 10 độ ạ?
+__label__2 Cơn mưa trưa nay có lượng mưa là bao nhiêu ạ?
+__label__2 Nhiệt độ thấp nhất của đợt lạnh này là bao nhiêu?
+__label__2 Cuối tuần này đã thấy được mặt trời chưa ạ?
+__label__2 Anh Thanh Tùng ơi, sức gió ngày mai ra sao ạ
+__label__2 Ad cho em hỏi t7 tuần này thời tiết thế nào ạ
+__label__2 Trưa mai mưa như thế nào và bao giờ có nắng vậy ad  em đang thu hoạch mùa cần biết thông tin lắm.tks ad
+__label__2 Tóc mới đẹp zai quá anh Tùng ơi.cho em hỏi đêm mai thế nào ạ
+__label__2 Bao giờ thì nhiệt độ giảm đi?
+__label__2 Anh ơi thời tiết tuần sau như thế bào vậy ah
+__label__2 mai mặc áo gì thì hợp hả chị
+__label__2 đợt lạnh này kéo dài trong bao lâu ạ
+__label__2 Chị ơi, nhiệt độ ngày kia  như thế nào vậy chị
+__label__2 Cơn bão này sức gió mạnh nhất là bao nhiêu ạ?
+__label__2 Nhiệt độ đợt rét này miền bắc trung bình khoảng bao nhiêu ad?
+__label__2 Ad cho em hỏi đợt lạnh này kéo dài bao lâu ạ
+__label__2 Cuối tuần thời tiết thế nào ạ
+__label__2 Trưa và chiều mai như thế nào bạn ơi
+__label__2 Bao giờ hết nồm ẩm
+__label__2 Nhiệt độ thấp nhất đêm nay là bao nhiêu thế cô?
+__label__2 Bao giờ hết nồm ẩm ướt thế nào chị
+__label__2 cuối tuần này thời tiết như thế nào ạ
+__label__2 Chị ơi cho em hỏi thời tiết tuần tới thế nào ak
+__label__2 Thời tiết 4 ngày tới thế nào hả em
+__label__2 Đêm nay thì sao chị quỳnh hoa
+__label__2 Bao giờ thì hết hanh khô ak?
+__label__2 Thời tiết hanh khô kéo dài bao lâu ạ?
+__label__2 Trời nồm ẩm kéo dài trong bao lâu, biên tập viên
+__label__2 Cuối tháng này thế nào chị?  em đi chơi. huhu
+__label__2 Bao lâu nữa thì mới có mưa vậy chị?
+__label__2 mai thời tiết sao chị ơi
+__label__2 Bao giờ thì bão đổ bộ vào nước ta vậy chị?
+__label__2 Anh ơi cho em hỏi thời tiết ngày mai thế nào ạ   em hỏi mấy lần rồi
+__label__2 Cuối tuần thời tiết như thế nào a ơi
+__label__2 Anh ơi, thời tiết khi nào nắng ấm lên ạ
+__label__2 A ơi mấy hôm nữa thì hết lạnh ạ
+__label__2 Nhiệt độ cao nhất ngày mai là bao nhiêu ạ?
+__label__2 Cuối tuần nhiệt độ tầm bao nhiêu vậy ạ
+__label__2 Đợt mưa này đến khi nào thì hết vậy
+__label__2 Cho em hỏi ngày mai thời tiết thế nào ạ
+__label__2 Hôm nay mưa kéo dài đến mấy giờ ạ?
+__label__2 Trưa ngày mai nhiệt độ là bao nhiêu ạ?
+__label__2 Chị ơi thời tiết ngày mai như thế nào ạ
+__label__2 Cơn bão này kéo dài bao lâu ạ?
+__label__2 Đợt lạnh sắp tới cường độ và thời gian thế nào vậy ad
+__label__2 thời tiết 3-4 thàng 3 như thế nào vậy ạ
+__label__2 Đợt lạnh này kéo dài bao lâu ad ơi
+__label__2 Mùng 8 thời tiết như thế nào ạ
+__label__2 Cô ơi cháu muốn hỏi thời tiết ngày mai thế nào
+__label__2 mai thời tiết thế nào ạ
+__label__2 mai nhiệt độ sẽ dao động trong khoảng nào ạ?
+__label__2 thời tiết trong 3 ngày tới thế nào ạ chị
+__label__2 ngày mai thế nào vậy chị  Chị xinh quá ạ
+__label__2 Sáng mai thời tiết như thế nào ad nhỉ
+__label__2 Miền  Bắc  trời  trở  lạnh mấy ngày  vậy  ad
+__label__2 Còn nắng nóng bao lâu nữa ạ?
+__label__2 Bao giờ rét lại rét vậy
+__label__2 thời tiết như thế nào chị ới
+__label__2 thời tiết đêm nay và ngày mai thế nào vậy chị
+__label__2 Rạng sang mai thì thế nào chị
+__label__2 đêm nay có mưa ko ạ?
+__label__2 ngày mai bao nhiêu độ chị ơi
+__label__2 Thời tiết cuối tuần thế nào chị ơi
+__label__2 Nhiệt độ trong nhà và nhiệt độ ngoài trời của ngày mai chênh lệch như thế nào vậy chị?
+__label__2 Độ ẩm thấp nhất trong 2 tuần tới là bao nhiêu?
+__label__2 Ngày mai trời nhiều hay ít mây?
+__label__2 Sức gió cao nhất của tuần sau là bao nhiêu?
+__label__2 Ngày 12/5 có mưa là mưa to hay mưa nhỏ vậy chị?
+__label__2 Nhiệt độ của tuần sau so với tuần này có biến động như thế nào hả chị?
+__label__2 Gió Lào bao giờ thì xuất hiện vậy chị?
+__label__2 Cơn bão sắp tới có sức gió mạnh nhất là bao nhiêu vậy anh?
+__label__2 Đêm mai rét đậm và nhiệt độ thấp nhất là bao nhiêu ạ?
+__label__2 Bao giờ thì mới có nắng ạ? Trời âm u cả tuần nay rồi
+__label__2 Thời tiết oi bức khó chịu như này bao giờ mới kết thúc ạ?
+__label__2 còn ngày mai thì sao
+__label__2 ngày mai thế nào
+__label__2 tuần sau thì sao
+__label__2 thế còn thời tiết tuần sau thế nào
+__label__2 thế còn ngày kia thì sao
+__label__2 thế ngày kia thế nào__label__3 trời có nóng không
+__label__3 trời có mưa không
+__label__3 trời có lạnh không
+__label__3 trời có rét không
+__label__3 trời có gió không
+__label__3 trời có nắng không
+__label__3 trời có ấm không
+__label__3 trời có âm u không
+__label__3 trời có nhiều mây không
+__label__3 trời nhiều mây phải không
+__label__3 trời có nhiều mây phải không
+__label__3 trời nhiều mây không
+__label__3 trời mây không
+__label__3 trời khô hanh phải không
+__label__3 trời khô hanh không
+__label__3 trời có độ ẩm thấp phải không
+__label__3 trời ẩm thấp không
+__label__3 trời có nhiệt độ cao không
+__label__3 trời nhiệt độ cao không
+__label__3 trời có ẩm mốc không
+__label__3 trời ẩm mốc không
+__label__3 trời nóng không
+__label__3 trời mưa không
+__label__3 trời lạnh không
+__label__3 trời rét không
+__label__3 trời gió không
+__label__3 trời nắng không
+__label__3 trời ấm không
+__label__3 trời âm u không
+__label__3 trời độ ẩm thấp phải không
+__label__3 trời nhiệt độ cao phải không
+__label__3 trời có nóng phải không
+__label__3 trời có mưa phải không
+__label__3 trời có lạnh phải không
+__label__3 trời phải không
+__label__3 trời có gió phải không
+__label__3 trời có nắng phải không
+__label__3 trời có ấm phải không
+__label__3 trời có âm u phải không
+__label__3 trời có nhiệt độ cao phải không
+__label__3 trời nóng phải không
+__label__3 trời mưa phải không
+__label__3 trời lạnh phải không
+__label__3 trời rét phải không
+__label__3 trời nắng phải không
+__label__3 trời âm u phải không
+__label__3 thời tiết có nóng không
+__label__3 thời tiết có mưa không
+__label__3 thời tiết có lạnh không
+__label__3 thời tiết có rét không
+__label__3 thời tiết có gió không
+__label__3 thời tiết có nắng không
+__label__3 thời tiết có ấm không
+__label__3 thời tiết có âm u không
+__label__3 thời tiết khô hanh phải không
+__label__3 thời tiết có độ ẩm thấp phải không
+__label__3 thời tiết có nhiệt độ cao không
+__label__3 thời tiết có ẩm mốc không
+__label__3 thời tiết nóng không
+__label__3 thời tiết mưa không
+__label__3 thời tiết lạnh không
+__label__3 thời tiết rét không
+__label__3 thời tiết gió không
+__label__3 thời tiết nắng không
+__label__3 thời tiết ấm không
+__label__3 thời tiết âm u không
+__label__3 thời tiết độ ẩm thấp phải không
+__label__3 thời tiết nhiệt độ cao phải không
+__label__3 thời tiết có nóng phải không
+__label__3 thời tiết có mưa phải không
+__label__3 thời tiết có lạnh phải không
+__label__3 thời tiết phải không
+__label__3 thời tiết có gió phải không
+__label__3 thời tiết có nắng phải không
+__label__3 thời tiết có ấm phải không
+__label__3 thời tiết có âm u phải không
+__label__3 thời tiết có nhiệt độ cao phải không
+__label__3 thời tiết nóng phải không
+__label__3 thời tiết mưa phải không
+__label__3 thời tiết lạnh phải không
+__label__3 thời tiết rét phải không
+__label__3 thời tiết nắng phải không
+__label__3 thời tiết âm u phải không
+__label__3 gió to không
+__label__3 gió không
+__label__3 nắng không
+__label__3 nóng không
+__label__3 có mây không
+__label__3 mưa không
+__label__3 nắng không
+__label__3 nhiều gió không
+__label__3 nhiệt độ cao không
+__label__3 nhiệt độ thấp không
+__label__3 sương mù không
+__label__3 có mưa không
+__label__3 có sương mù không
+__label__3 có tuyết không
+__label__3 mưa nhiều không
+__label__3 mưa nặng hạt không
+__label__3 có mưa rào không
+__label__3 có nắng to không
+__label__3 độ ẩm có cao không
+__label__3 độ ẩm có thấp không
+__label__3 độ ẩm cao không
+__label__3 độ ẩm thấp không
+__label__3 nhiều mây không
+__label__3 âm u không
+__label__3 lượng mưa có nhiều không
+__label__3 lượng mưa nhiều không
+__label__3 nắng to không
+__label__3 có nắng không
+__label__3 cho hỏi trời có nóng không
+__label__3 dự báo trời có nóng không
+__label__3 cho hỏi dự báo trời có nóng không
+__label__3 dự báo thời tiết trời có nóng không
+__label__3 cho hỏi trời có mưa không
+__label__3 dự báo trời có mưa không
+__label__3 cho hỏi dự báo trời có mưa không
+__label__3 dự báo thời tiết trời có mưa không
+__label__3 cho hỏi trời có lạnh không
+__label__3 dự báo trời có lạnh không
+__label__3 cho hỏi dự báo trời có lạnh không
+__label__3 dự báo thời tiết trời có lạnh không
+__label__3 cho hỏi trời có rét không
+__label__3 dự báo trời có rét không
+__label__3 cho hỏi dự báo trời có rét không
+__label__3 dự báo thời tiết trời có rét không
+__label__3 cho hỏi trời có gió không
+__label__3 dự báo trời có gió không
+__label__3 cho hỏi dự báo trời có gió không
+__label__3 dự báo thời tiết trời có gió không
+__label__3 cho hỏi trời có nắng không
+__label__3 dự báo trời có nắng không
+__label__3 cho hỏi dự báo trời có nắng không
+__label__3 dự báo thời tiết trời có nắng không
+__label__3 cho hỏi trời có ấm không
+__label__3 dự báo trời có ấm không
+__label__3 cho hỏi dự báo trời có ấm không
+__label__3 dự báo thời tiết trời có ấm không
+__label__3 cho hỏi trời có âm u không
+__label__3 dự báo trời có âm u không
+__label__3 cho hỏi dự báo trời có âm u không
+__label__3 dự báo thời tiết trời có âm u không
+__label__3 cho hỏi trời có nhiều mây không
+__label__3 dự báo trời có nhiều mây không
+__label__3 cho hỏi dự báo trời có nhiều mây không
+__label__3 dự báo thời tiết trời có nhiều mây không
+__label__3 cho hỏi trời nhiều mây phải không
+__label__3 dự báo trời nhiều mây phải không
+__label__3 cho hỏi dự báo trời nhiều mây phải không
+__label__3 dự báo thời tiết trời nhiều mây phải không
+__label__3 cho hỏi trời có nhiều mây phải không
+__label__3 dự báo trời có nhiều mây phải không
+__label__3 cho hỏi dự báo trời có nhiều mây phải không
+__label__3 dự báo thời tiết trời có nhiều mây phải không
+__label__3 cho hỏi trời nhiều mây không
+__label__3 dự báo trời nhiều mây không
+__label__3 cho hỏi dự báo trời nhiều mây không
+__label__3 dự báo thời tiết trời nhiều mây không
+__label__3 cho hỏi trời mây không
+__label__3 dự báo trời mây không
+__label__3 cho hỏi dự báo trời mây không
+__label__3 dự báo thời tiết trời mây không
+__label__3 cho hỏi trời khô hanh phải không
+__label__3 dự báo trời khô hanh phải không
+__label__3 cho hỏi dự báo trời khô hanh phải không
+__label__3 dự báo thời tiết trời khô hanh phải không
+__label__3 cho hỏi trời khô hanh không
+__label__3 dự báo trời khô hanh không
+__label__3 cho hỏi dự báo trời khô hanh không
+__label__3 dự báo thời tiết trời khô hanh không
+__label__3 cho hỏi trời có độ ẩm thấp phải không
+__label__3 dự báo trời có độ ẩm thấp phải không
+__label__3 cho hỏi dự báo trời có độ ẩm thấp phải không
+__label__3 dự báo thời tiết trời có độ ẩm thấp phải không
+__label__3 cho hỏi trời ẩm thấp không
+__label__3 dự báo trời ẩm thấp không
+__label__3 cho hỏi dự báo trời ẩm thấp không
+__label__3 dự báo thời tiết trời ẩm thấp không
+__label__3 cho hỏi trời có nhiệt độ cao không
+__label__3 dự báo trời có nhiệt độ cao không
+__label__3 cho hỏi dự báo trời có nhiệt độ cao không
+__label__3 dự báo thời tiết trời có nhiệt độ cao không
+__label__3 cho hỏi trời nhiệt độ cao không
+__label__3 dự báo trời nhiệt độ cao không
+__label__3 cho hỏi dự báo trời nhiệt độ cao không
+__label__3 dự báo thời tiết trời nhiệt độ cao không
+__label__3 cho hỏi trời có ẩm mốc không
+__label__3 dự báo trời có ẩm mốc không
+__label__3 cho hỏi dự báo trời có ẩm mốc không
+__label__3 dự báo thời tiết trời có ẩm mốc không
+__label__3 cho hỏi trời ẩm mốc không
+__label__3 dự báo trời ẩm mốc không
+__label__3 cho hỏi dự báo trời ẩm mốc không
+__label__3 dự báo thời tiết trời ẩm mốc không
+__label__3 cho hỏi trời nóng không
+__label__3 dự báo trời nóng không
+__label__3 cho hỏi dự báo trời nóng không
+__label__3 dự báo thời tiết trời nóng không
+__label__3 cho hỏi trời mưa không
+__label__3 dự báo trời mưa không
+__label__3 cho hỏi dự báo trời mưa không
+__label__3 dự báo thời tiết trời mưa không
+__label__3 cho hỏi trời lạnh không
+__label__3 dự báo trời lạnh không
+__label__3 cho hỏi dự báo trời lạnh không
+__label__3 dự báo thời tiết trời lạnh không
+__label__3 cho hỏi trời rét không
+__label__3 dự báo trời rét không
+__label__3 cho hỏi dự báo trời rét không
+__label__3 dự báo thời tiết trời rét không
+__label__3 cho hỏi trời gió không
+__label__3 dự báo trời gió không
+__label__3 cho hỏi dự báo trời gió không
+__label__3 dự báo thời tiết trời gió không
+__label__3 cho hỏi trời nắng không
+__label__3 dự báo trời nắng không
+__label__3 cho hỏi dự báo trời nắng không
+__label__3 dự báo thời tiết trời nắng không
+__label__3 cho hỏi trời ấm không
+__label__3 dự báo trời ấm không
+__label__3 cho hỏi dự báo trời ấm không
+__label__3 dự báo thời tiết trời ấm không
+__label__3 cho hỏi trời âm u không
+__label__3 dự báo trời âm u không
+__label__3 cho hỏi dự báo trời âm u không
+__label__3 dự báo thời tiết trời âm u không
+__label__3 cho hỏi trời độ ẩm thấp phải không
+__label__3 dự báo trời độ ẩm thấp phải không
+__label__3 cho hỏi dự báo trời độ ẩm thấp phải không
+__label__3 dự báo thời tiết trời độ ẩm thấp phải không
+__label__3 cho hỏi trời nhiệt độ cao phải không
+__label__3 dự báo trời nhiệt độ cao phải không
+__label__3 cho hỏi dự báo trời nhiệt độ cao phải không
+__label__3 dự báo thời tiết trời nhiệt độ cao phải không
+__label__3 cho hỏi trời có nóng phải không
+__label__3 dự báo trời có nóng phải không
+__label__3 cho hỏi dự báo trời có nóng phải không
+__label__3 dự báo thời tiết trời có nóng phải không
+__label__3 cho hỏi trời có mưa phải không
+__label__3 dự báo trời có mưa phải không
+__label__3 cho hỏi dự báo trời có mưa phải không
+__label__3 dự báo thời tiết trời có mưa phải không
+__label__3 cho hỏi trời có lạnh phải không
+__label__3 dự báo trời có lạnh phải không
+__label__3 cho hỏi dự báo trời có lạnh phải không
+__label__3 dự báo thời tiết trời có lạnh phải không
+__label__3 cho hỏi trời phải không
+__label__3 dự báo trời phải không
+__label__3 cho hỏi dự báo trời phải không
+__label__3 dự báo thời tiết trời phải không
+__label__3 cho hỏi trời có gió phải không
+__label__3 dự báo trời có gió phải không
+__label__3 cho hỏi dự báo trời có gió phải không
+__label__3 dự báo thời tiết trời có gió phải không
+__label__3 cho hỏi trời có nắng phải không
+__label__3 dự báo trời có nắng phải không
+__label__3 cho hỏi dự báo trời có nắng phải không
+__label__3 dự báo thời tiết trời có nắng phải không
+__label__3 cho hỏi trời có ấm phải không
+__label__3 dự báo trời có ấm phải không
+__label__3 cho hỏi dự báo trời có ấm phải không
+__label__3 dự báo thời tiết trời có ấm phải không
+__label__3 cho hỏi trời có âm u phải không
+__label__3 dự báo trời có âm u phải không
+__label__3 cho hỏi dự báo trời có âm u phải không
+__label__3 dự báo thời tiết trời có âm u phải không
+__label__3 cho hỏi trời có nhiệt độ cao phải không
+__label__3 dự báo trời có nhiệt độ cao phải không
+__label__3 cho hỏi dự báo trời có nhiệt độ cao phải không
+__label__3 dự báo thời tiết trời có nhiệt độ cao phải không
+__label__3 cho hỏi trời nóng phải không
+__label__3 dự báo trời nóng phải không
+__label__3 cho hỏi dự báo trời nóng phải không
+__label__3 dự báo thời tiết trời nóng phải không
+__label__3 cho hỏi trời mưa phải không
+__label__3 dự báo trời mưa phải không
+__label__3 cho hỏi dự báo trời mưa phải không
+__label__3 dự báo thời tiết trời mưa phải không
+__label__3 cho hỏi trời lạnh phải không
+__label__3 dự báo trời lạnh phải không
+__label__3 cho hỏi dự báo trời lạnh phải không
+__label__3 dự báo thời tiết trời lạnh phải không
+__label__3 cho hỏi trời rét phải không
+__label__3 dự báo trời rét phải không
+__label__3 cho hỏi dự báo trời rét phải không
+__label__3 dự báo thời tiết trời rét phải không
+__label__3 cho hỏi trời nắng phải không
+__label__3 dự báo trời nắng phải không
+__label__3 cho hỏi dự báo trời nắng phải không
+__label__3 dự báo thời tiết trời nắng phải không
+__label__3 cho hỏi trời âm u phải không
+__label__3 dự báo trời âm u phải không
+__label__3 cho hỏi dự báo trời âm u phải không
+__label__3 dự báo thời tiết trời âm u phải không
+__label__3 cho hỏi thời tiết có nóng không
+__label__3 dự báo thời tiết có nóng không
+__label__3 cho hỏi dự báo thời tiết có nóng không
+__label__3 dự báo thời tiết thời tiết có nóng không
+__label__3 cho hỏi thời tiết có mưa không
+__label__3 dự báo thời tiết có mưa không
+__label__3 cho hỏi dự báo thời tiết có mưa không
+__label__3 dự báo thời tiết thời tiết có mưa không
+__label__3 cho hỏi thời tiết có lạnh không
+__label__3 dự báo thời tiết có lạnh không
+__label__3 cho hỏi dự báo thời tiết có lạnh không
+__label__3 dự báo thời tiết thời tiết có lạnh không
+__label__3 cho hỏi thời tiết có rét không
+__label__3 dự báo thời tiết có rét không
+__label__3 cho hỏi dự báo thời tiết có rét không
+__label__3 dự báo thời tiết thời tiết có rét không
+__label__3 cho hỏi thời tiết có gió không
+__label__3 dự báo thời tiết có gió không
+__label__3 cho hỏi dự báo thời tiết có gió không
+__label__3 dự báo thời tiết thời tiết có gió không
+__label__3 cho hỏi thời tiết có nắng không
+__label__3 dự báo thời tiết có nắng không
+__label__3 cho hỏi dự báo thời tiết có nắng không
+__label__3 dự báo thời tiết thời tiết có nắng không
+__label__3 cho hỏi thời tiết có ấm không
+__label__3 dự báo thời tiết có ấm không
+__label__3 cho hỏi dự báo thời tiết có ấm không
+__label__3 dự báo thời tiết thời tiết có ấm không
+__label__3 cho hỏi thời tiết có âm u không
+__label__3 dự báo thời tiết có âm u không
+__label__3 cho hỏi dự báo thời tiết có âm u không
+__label__3 dự báo thời tiết thời tiết có âm u không
+__label__3 cho hỏi thời tiết khô hanh phải không
+__label__3 dự báo thời tiết khô hanh phải không
+__label__3 cho hỏi dự báo thời tiết khô hanh phải không
+__label__3 dự báo thời tiết thời tiết khô hanh phải không
+__label__3 cho hỏi thời tiết có độ ẩm thấp phải không
+__label__3 dự báo thời tiết có độ ẩm thấp phải không
+__label__3 cho hỏi dự báo thời tiết có độ ẩm thấp phải không
+__label__3 dự báo thời tiết thời tiết có độ ẩm thấp phải không
+__label__3 cho hỏi thời tiết có nhiệt độ cao không
+__label__3 dự báo thời tiết có nhiệt độ cao không
+__label__3 cho hỏi dự báo thời tiết có nhiệt độ cao không
+__label__3 dự báo thời tiết thời tiết có nhiệt độ cao không
+__label__3 cho hỏi thời tiết có ẩm mốc không
+__label__3 dự báo thời tiết có ẩm mốc không
+__label__3 cho hỏi dự báo thời tiết có ẩm mốc không
+__label__3 dự báo thời tiết thời tiết có ẩm mốc không
+__label__3 cho hỏi thời tiết nóng không
+__label__3 dự báo thời tiết nóng không
+__label__3 cho hỏi dự báo thời tiết nóng không
+__label__3 dự báo thời tiết thời tiết nóng không
+__label__3 cho hỏi thời tiết mưa không
+__label__3 dự báo thời tiết mưa không
+__label__3 cho hỏi dự báo thời tiết mưa không
+__label__3 dự báo thời tiết thời tiết mưa không
+__label__3 cho hỏi thời tiết lạnh không
+__label__3 dự báo thời tiết lạnh không
+__label__3 cho hỏi dự báo thời tiết lạnh không
+__label__3 dự báo thời tiết thời tiết lạnh không
+__label__3 cho hỏi thời tiết rét không
+__label__3 dự báo thời tiết rét không
+__label__3 cho hỏi dự báo thời tiết rét không
+__label__3 dự báo thời tiết thời tiết rét không
+__label__3 cho hỏi thời tiết gió không
+__label__3 dự báo thời tiết gió không
+__label__3 cho hỏi dự báo thời tiết gió không
+__label__3 dự báo thời tiết thời tiết gió không
+__label__3 cho hỏi thời tiết nắng không
+__label__3 dự báo thời tiết nắng không
+__label__3 cho hỏi dự báo thời tiết nắng không
+__label__3 dự báo thời tiết thời tiết nắng không
+__label__3 cho hỏi thời tiết ấm không
+__label__3 dự báo thời tiết ấm không
+__label__3 cho hỏi dự báo thời tiết ấm không
+__label__3 dự báo thời tiết thời tiết ấm không
+__label__3 cho hỏi thời tiết âm u không
+__label__3 dự báo thời tiết âm u không
+__label__3 cho hỏi dự báo thời tiết âm u không
+__label__3 dự báo thời tiết thời tiết âm u không
+__label__3 cho hỏi thời tiết độ ẩm thấp phải không
+__label__3 dự báo thời tiết độ ẩm thấp phải không
+__label__3 cho hỏi dự báo thời tiết độ ẩm thấp phải không
+__label__3 dự báo thời tiết thời tiết độ ẩm thấp phải không
+__label__3 cho hỏi thời tiết nhiệt độ cao phải không
+__label__3 dự báo thời tiết nhiệt độ cao phải không
+__label__3 cho hỏi dự báo thời tiết nhiệt độ cao phải không
+__label__3 dự báo thời tiết thời tiết nhiệt độ cao phải không
+__label__3 cho hỏi thời tiết có nóng phải không
+__label__3 dự báo thời tiết có nóng phải không
+__label__3 cho hỏi dự báo thời tiết có nóng phải không
+__label__3 dự báo thời tiết thời tiết có nóng phải không
+__label__3 cho hỏi thời tiết có mưa phải không
+__label__3 dự báo thời tiết có mưa phải không
+__label__3 cho hỏi dự báo thời tiết có mưa phải không
+__label__3 dự báo thời tiết thời tiết có mưa phải không
+__label__3 cho hỏi thời tiết có lạnh phải không
+__label__3 dự báo thời tiết có lạnh phải không
+__label__3 cho hỏi dự báo thời tiết có lạnh phải không
+__label__3 dự báo thời tiết thời tiết có lạnh phải không
+__label__3 cho hỏi thời tiết phải không
+__label__3 dự báo thời tiết phải không
+__label__3 cho hỏi dự báo thời tiết phải không
+__label__3 dự báo thời tiết thời tiết phải không
+__label__3 cho hỏi thời tiết có gió phải không
+__label__3 dự báo thời tiết có gió phải không
+__label__3 cho hỏi dự báo thời tiết có gió phải không
+__label__3 dự báo thời tiết thời tiết có gió phải không
+__label__3 cho hỏi thời tiết có nắng phải không
+__label__3 dự báo thời tiết có nắng phải không
+__label__3 cho hỏi dự báo thời tiết có nắng phải không
+__label__3 dự báo thời tiết thời tiết có nắng phải không
+__label__3 cho hỏi thời tiết có ấm phải không
+__label__3 dự báo thời tiết có ấm phải không
+__label__3 cho hỏi dự báo thời tiết có ấm phải không
+__label__3 dự báo thời tiết thời tiết có ấm phải không
+__label__3 cho hỏi thời tiết có âm u phải không
+__label__3 dự báo thời tiết có âm u phải không
+__label__3 cho hỏi dự báo thời tiết có âm u phải không
+__label__3 dự báo thời tiết thời tiết có âm u phải không
+__label__3 cho hỏi thời tiết có nhiệt độ cao phải không
+__label__3 dự báo thời tiết có nhiệt độ cao phải không
+__label__3 cho hỏi dự báo thời tiết có nhiệt độ cao phải không
+__label__3 dự báo thời tiết thời tiết có nhiệt độ cao phải không
+__label__3 cho hỏi thời tiết nóng phải không
+__label__3 dự báo thời tiết nóng phải không
+__label__3 cho hỏi dự báo thời tiết nóng phải không
+__label__3 dự báo thời tiết thời tiết nóng phải không
+__label__3 cho hỏi thời tiết mưa phải không
+__label__3 dự báo thời tiết mưa phải không
+__label__3 cho hỏi dự báo thời tiết mưa phải không
+__label__3 dự báo thời tiết thời tiết mưa phải không
+__label__3 cho hỏi thời tiết lạnh phải không
+__label__3 dự báo thời tiết lạnh phải không
+__label__3 cho hỏi dự báo thời tiết lạnh phải không
+__label__3 dự báo thời tiết thời tiết lạnh phải không
+__label__3 cho hỏi thời tiết rét phải không
+__label__3 dự báo thời tiết rét phải không
+__label__3 cho hỏi dự báo thời tiết rét phải không
+__label__3 dự báo thời tiết thời tiết rét phải không
+__label__3 cho hỏi thời tiết nắng phải không
+__label__3 dự báo thời tiết nắng phải không
+__label__3 cho hỏi dự báo thời tiết nắng phải không
+__label__3 dự báo thời tiết thời tiết nắng phải không
+__label__3 cho hỏi thời tiết âm u phải không
+__label__3 dự báo thời tiết âm u phải không
+__label__3 cho hỏi dự báo thời tiết âm u phải không
+__label__3 dự báo thời tiết thời tiết âm u phải không
+__label__3 cho hỏi gió to không
+__label__3 dự báo gió to không
+__label__3 cho hỏi dự báo gió to không
+__label__3 dự báo thời tiết gió to không
+__label__3 cho hỏi gió không
+__label__3 dự báo gió không
+__label__3 cho hỏi dự báo gió không
+__label__3 dự báo thời tiết gió không
+__label__3 cho hỏi nắng không
+__label__3 dự báo nắng không
+__label__3 cho hỏi dự báo nắng không
+__label__3 dự báo thời tiết nắng không
+__label__3 cho hỏi nóng không
+__label__3 dự báo nóng không
+__label__3 cho hỏi dự báo nóng không
+__label__3 dự báo thời tiết nóng không
+__label__3 cho hỏi có mây không
+__label__3 dự báo có mây không
+__label__3 cho hỏi dự báo có mây không
+__label__3 dự báo thời tiết có mây không
+__label__3 cho hỏi mưa không
+__label__3 dự báo mưa không
+__label__3 cho hỏi dự báo mưa không
+__label__3 dự báo thời tiết mưa không
+__label__3 cho hỏi nắng không
+__label__3 dự báo nắng không
+__label__3 cho hỏi dự báo nắng không
+__label__3 dự báo thời tiết nắng không
+__label__3 cho hỏi nhiều gió không
+__label__3 dự báo nhiều gió không
+__label__3 cho hỏi dự báo nhiều gió không
+__label__3 dự báo thời tiết nhiều gió không
+__label__3 cho hỏi nhiệt độ cao không
+__label__3 dự báo nhiệt độ cao không
+__label__3 cho hỏi dự báo nhiệt độ cao không
+__label__3 dự báo thời tiết nhiệt độ cao không
+__label__3 cho hỏi nhiệt độ thấp không
+__label__3 dự báo nhiệt độ thấp không
+__label__3 cho hỏi dự báo nhiệt độ thấp không
+__label__3 dự báo thời tiết nhiệt độ thấp không
+__label__3 cho hỏi sương mù không
+__label__3 dự báo sương mù không
+__label__3 cho hỏi dự báo sương mù không
+__label__3 dự báo thời tiết sương mù không
+__label__3 cho hỏi có mưa không
+__label__3 dự báo có mưa không
+__label__3 cho hỏi dự báo có mưa không
+__label__3 dự báo thời tiết có mưa không
+__label__3 cho hỏi có sương mù không
+__label__3 dự báo có sương mù không
+__label__3 cho hỏi dự báo có sương mù không
+__label__3 dự báo thời tiết có sương mù không
+__label__3 cho hỏi có tuyết không
+__label__3 dự báo có tuyết không
+__label__3 cho hỏi dự báo có tuyết không
+__label__3 dự báo thời tiết có tuyết không
+__label__3 cho hỏi mưa nhiều không
+__label__3 dự báo mưa nhiều không
+__label__3 cho hỏi dự báo mưa nhiều không
+__label__3 dự báo thời tiết mưa nhiều không
+__label__3 cho hỏi mưa nặng hạt không
+__label__3 dự báo mưa nặng hạt không
+__label__3 cho hỏi dự báo mưa nặng hạt không
+__label__3 dự báo thời tiết mưa nặng hạt không
+__label__3 cho hỏi có mưa rào không
+__label__3 dự báo có mưa rào không
+__label__3 cho hỏi dự báo có mưa rào không
+__label__3 dự báo thời tiết có mưa rào không
+__label__3 cho hỏi có nắng to không
+__label__3 dự báo có nắng to không
+__label__3 cho hỏi dự báo có nắng to không
+__label__3 dự báo thời tiết có nắng to không
+__label__3 cho hỏi độ ẩm có cao không
+__label__3 dự báo độ ẩm có cao không
+__label__3 cho hỏi dự báo độ ẩm có cao không
+__label__3 dự báo thời tiết độ ẩm có cao không
+__label__3 cho hỏi độ ẩm có thấp không
+__label__3 dự báo độ ẩm có thấp không
+__label__3 cho hỏi dự báo độ ẩm có thấp không
+__label__3 dự báo thời tiết độ ẩm có thấp không
+__label__3 cho hỏi độ ẩm cao không
+__label__3 dự báo độ ẩm cao không
+__label__3 cho hỏi dự báo độ ẩm cao không
+__label__3 dự báo thời tiết độ ẩm cao không
+__label__3 cho hỏi độ ẩm thấp không
+__label__3 dự báo độ ẩm thấp không
+__label__3 cho hỏi dự báo độ ẩm thấp không
+__label__3 dự báo thời tiết độ ẩm thấp không
+__label__3 cho hỏi nhiều mây không
+__label__3 dự báo nhiều mây không
+__label__3 cho hỏi dự báo nhiều mây không
+__label__3 dự báo thời tiết nhiều mây không
+__label__3 cho hỏi âm u không
+__label__3 dự báo âm u không
+__label__3 cho hỏi dự báo âm u không
+__label__3 dự báo thời tiết âm u không
+__label__3 cho hỏi lượng mưa có nhiều không
+__label__3 dự báo lượng mưa có nhiều không
+__label__3 cho hỏi dự báo lượng mưa có nhiều không
+__label__3 dự báo thời tiết lượng mưa có nhiều không
+__label__3 cho hỏi lượng mưa nhiều không
+__label__3 dự báo lượng mưa nhiều không
+__label__3 cho hỏi dự báo lượng mưa nhiều không
+__label__3 dự báo thời tiết lượng mưa nhiều không
+__label__3 cho hỏi nắng to không
+__label__3 dự báo nắng to không
+__label__3 cho hỏi dự báo nắng to không
+__label__3 dự báo thời tiết nắng to không
+__label__3 cho hỏi có nắng không
+__label__3 dự báo có nắng không
+__label__3 cho hỏi dự báo có nắng không
+__label__3 dự báo thời tiết có nắng không
+__label__3 ad ơi cho hỏi thời tiết có nắng không ?
+__label__3 bot ơi trời có mưa không ?
+__label__3 tết có mưa không admin , thấy bảo mưa và lạnh , buồn quá
+__label__3 Ad cho em hỏi 26/3 khu Hải Dương có mưa không anh
+__label__3 Ad cho em hỏi sáng mai Bắc Giang còn mưa không ạ
+__label__3 liệu mưa to không ạ
+__label__3 có mưa không ad VTV
+__label__3 sáng  mai hnoi có mưa không ad, quận thanh xuân ý chế
+__label__3 mai có mưa không ạ
+__label__3 Tp Thanh Hoá mai có mưa không ad
+__label__3 anh mc cho em hỏi daklak có mưa không để nhà em khỏi tưới cà.
+__label__3 Tầm 9h trời mưa chưa ạ
+__label__3 mai mưa không ad ơi
+__label__3 Mai có mưa không anh
+__label__3 Mai mưa không a
+__label__3 mai mưa không a
+__label__3 ngày 25-3 có mưa không ạ
+__label__3 Chào anh ạ đêm nay hưng yên có không khí lạnh về không ạ
+__label__3 Hà nội mưa không anh
+__label__3 Mộc châu có còn mưa đá không ah
+__label__3 chiều mai tuyết rơi không ạ
+__label__3 có mưa không ad, còn hẹn hò
+__label__3 Không biết đợt không khí lạnh này có mưa không ạ
+__label__3 có bị lội nước đợt này không ad
+__label__3 có mưa không ạ
+__label__3 Miền trung lạnh không ad
+__label__3 Mai tạnh mưa không ad
+__label__3 Mai nước lũ rút chưa ad
+__label__3 Hà nội đêm nay liệu có mưa không ạ
+__label__3 Ad ơi ở Hải Phòng đêm nay và ngày mai có mưa giông không Ad  5
+__label__3 Có giảm nhiệt mạnh không ad ơi
+__label__3 Có mưa và rét xuống thanh hoá không ah
+__label__3 mai co mua không b
+__label__3 Liệu có mưa không ad
+__label__3 Lạng son có mua không ad
+__label__3 Lạng sơn gió có mạnh không ad
+__label__3 ad cho hỏi sáng mai có nắng không vậy
+__label__3 Liệu có mưa đá không ad.
+__label__3 mấy ngày tới khả năng có mưa không
+__label__3 vừa mua đá rồi liệu tối nay có mưa đá nữa không ạ
+__label__3 còn mưa không bạn
+__label__3 Mai miền Bắc mưa to không ad
+__label__3 6h sáng mai có mưa không ad
+__label__3 Chiều tối nay nam định liệu có mưa không khoảng mấy giờ thì mưa
+__label__3 Khu vuc Nam Định có khả nang kèm theo sấm sét không ad
+__label__3 Ad ơi 23-24 bắc bộ có nắng không ạ
+__label__3 mai mưa không ạ
+__label__3 mai mưa không vậy ad
+__label__3 Mưa nốt đợt này thì hết không ad
+__label__3 Chiều và tối mai thời tiết đẹp không ạ
+__label__3 Ko biết có mưa đá không
+__label__3 22-3 mưa không ad
+__label__3 Hà tĩnh đêm nay và ngày mai dự báo mưa to không ạ
+__label__3 T5có nắng không ad
+__label__3 Ở thuỷ điện HB có lạnh không ạ
+__label__3 Tuyên quang mưa không vậy
+__label__3 Ngày 21/3 thái bình có mưa không ad
+__label__3 Không khí lạnh về nhiệt độ giảm nhiều không ad
+__label__3 Sáng mai hà nội có mưa không ad
+__label__3 chỗ nào mưa to vậy ad  liệu ở nhổn mai có mưa to không ạ
+__label__3 Cho em hỏi sáng mai Hà Nội mưa không ạ
+__label__3 Trời mấy ngày nữa có ẩm không ad
+__label__3 Thái nguyên ngày mai mưa không ạ
+__label__3 Bắc Ninh mưa không ạ
+__label__3 Sáng sớm mai có mưa không ạ. em cảm ơn
+__label__3 25 26 nắng không ạ
+__label__3 Ngày 20,21 còn mưa không ad
+__label__3 Lạnh lắm không ad
+__label__3 21 có mưa không ạ ad
+__label__3 Nắng xong có lạnh không ad. Em ghét nóng
+__label__3 Hà nội ngày kia mưa không ạ
+__label__3 25 nắng không ạ
+__label__3 Sáng mai mưa không ạ
+__label__3 Ad ơi liệu chiều và tối mai bắc giang có mưa không đề em đưa người yêu em đi chơi
+__label__3 Không khí lạnh mạnh không ad
+__label__3 ngày mai còn mưa nữa không chị
+__label__3 chị ơi, sáng mai ở thái bình có mưa không ạ
+__label__3 chị ơi có mưa không ạ
+__label__3 không khi lạnh đợt này có kéo dài ngày không btv ơi
+__label__3 mai độ ẩm cao không chị
+__label__3 mưa không
+__label__3 Ngày mai Hà nội có mưa không ạ
+__label__3 Em làm giặt là, ae có thể làm mưa nồm thế này quanh năm không ạ
+__label__3 Xin cho hỏi, Hà Nội ngày mai có nắng không ạ
+__label__3 Ad ơi tối nay có mưa không ạ  Từ 6h chiều ạ
+__label__3 Mai có mưa không vậy   ad
+__label__3 Ad ơi cho em hỏi, hôm nay mưa lâu không ạh
+__label__3 khi nào mưa và mưa to không ad ơi
+__label__3 ad đêm nay và ngày mai có sương muối không ad
+__label__3 Ad ơi mưa có to không ak
+__label__3 có mưa không a
+__label__3 A ơi sáng mai có mưa không ạ
+__label__3 Không khí lạnh có mạnh không a ơi
+__label__3 A ơi mai có lạnh không hay chỉ mưa thôi
+__label__3 tp vinh tối nay giông gió. mai ngày kia có mưa không a
+__label__3 Thời tiết ngày mai thế nào a có mưa không Anh
+__label__3 A ơi có mưa không a.
+__label__3 Sáng sớm mai có mưa không em
+__label__3 Ngày mai liệu phía Tây Bắc Bộ liệu có nắng không ạ
+__label__3 Hôm nay có mưa không ạ
+__label__3 Sáng mai mưa không ạ
+__label__3 Mai giông bão không ạ
+__label__3 ngày mai có mưa không ạ hay chỉ mưa buổi sáng thôi ạ
+__label__3 mai Nắng không chi.
+__label__3 Chủ nhật có mưa không chị ơi
+__label__3 mai nắng không chị
+__label__3 chủ nhật thứ 2 mưa to lắm không ad ơi  Đang có dự định đi xa chứ
+__label__3 Chiều 17 mưa không ad
+__label__3 Mưa to không ad
+__label__3 Miền trung có mưa kéo dài không ad
+__label__3 mưa to không ad
+__label__3 không biết có mưa không nhỉ để còn biết.
+__label__3 Yên bái mưa to không ạ
+__label__3 Ngày mai ba vì có mưa không ad
+__label__3 Mai DK tối liệu có mưa không nhể
+__label__3 Túm váy lại còn rét không để em mang qao mùa đông về ạ
+__label__3 Mai mưa cả ngày không ạ
+__label__3 K trả lời tớ ah, có mưa không xinh gái
+__label__3 Chị ơi ở bobapop cầu giát ngày mai có nắng không chị
+__label__3 Tối mai có mưa không chị
+__label__3 t7, chủ nhật có mưa không chị
+__label__3 mai còn lạnh không hả chị
+__label__3 thứ 7-cn mưa không ạh
+__label__3 ngày mai có nắng không ạ
+__label__3 Mường khương sông mã sơn la có mưa không ad
+__label__3 Cn thư 7 mưa không ad
+__label__3 Cuối tuần này bắc bộ có nắng không ad
+__label__3 mai nắng không ạ cj
+__label__3 chị ơi t7 chủ nhật ở tây thiên tam đảo vĩnh phúc có mưa không ạ
+__label__3 Cho minh hỏi Cuoi tuân nay miền Bắc có nắng không
+__label__3 Chị ơi ở thái nguyên mai có mưa không ạ
+__label__3 Cuối tuần có mưa không chị ơi
+__label__3 mai co mua không ban
+__label__3 ngày mai mưa không chị ơi
+__label__3 Em xinh ơi, mai mưa không
+__label__3 Chào e. 3 ngày nua có mua không em
+__label__3 ngày mai có nắng không ạ   Tôi nay mưa làm chạy tiêu mệt quá ak.
+__label__3 Miền Bắc ngày 17-18 có lạnh không ạ
+__label__3 troi toi om.mưa thất thuong chu co nang ti nao dau a
+__label__3 mai có nắng không ạ
+__label__3 ngày kia miền bắc sao a có mưa không ạ
+__label__3 Thời tiết ngày mai có mưa không MC
+__label__3 nay có mưa không ad
+__label__3 mưa kéo dài không ad
+__label__3 cuối tuần mưa không a oi
+__label__3 ngày mai có mưa không anh tùng ơi
+__label__3 Mai mưa không ad ơi hải dương ý
+__label__3 miền bắc mưa kéo dài không ạ
+__label__3 Mưa rào có không anh
+__label__3 mưa to không a ơi
+__label__3 có mưa to không ạ
+__label__3 Sang mai hưng yên có mưa không bạn
+__label__3 mưa to không ạ
+__label__3 ngày mai có nắng không bạn
+__label__3 Hà nội mai mưa nhiều không a
+__label__3 Cho em hỏi Cuối tuần lai châu mưa không ạ
+__label__3 Lạng sơn còn mưa nữa không ạ
+__label__3 đợt này nắng nóng không ạ
+__label__3 Đợt mưa này kéo dài không ad ơi
+__label__3 chủ nhật có mưa không ad.
+__label__3 hôm nay có mưa không ạ
+__label__3 Thế mưa này có kéo lâu không ạ
+__label__3 Mai liệu có mưa không bạn
+__label__3 Mưa có kèm theo lạnh không ạ
+__label__3 thế nào bác,liệu có mưa không
+__label__3 Vậy mai có mưa không hả ad
+__label__3 Mưa có kèo dài không ad ơi hôm nay
+__label__3 có mưa giông không vậy ad
+__label__3 có sương mù không ad
+__label__3 Thứ 4 còn mưa không bạn
+__label__3 thứ tư có mưa không add
+__label__3 T5 co mua không ad
+__label__3 có mưa không ạ
+__label__3 mưa không ak
+__label__3 có dông lốc không bạn
+__label__3 có mưa không ad
+__label__3 mưa không ad
+__label__3 mưa không anh
+__label__3 Thái bình sớm mai mưa không a
+__label__3 và tối thứ ba em đi sinh nhật thì Hà nội mưa không anh
+__label__3 anh đẹp zai ơi mai ở Hà nội có mưa không để em đi chơi
+__label__3 A Trai ơi. Ở Hưng yên thời tiết liệu có mưa không ạ
+__label__3 mai nắng không a
+__label__3 tuần tới có mưa không b
+__label__3 có mưa không ạ
+__label__3 ngày mai có mưa không ạ
+__label__3 ngày mai có mưa không ad
+
